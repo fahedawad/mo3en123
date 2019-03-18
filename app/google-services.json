@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "88043244445",
+    "firebase_url": "https://estesharat-3ba60.firebaseio.com",
+    "project_id": "estesharat-3ba60",
+    "storage_bucket": "estesharat-3ba60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88043244445:android:d499df2034551b1f",
+        "android_client_info": {
+          "package_name": "com.estisharat.estisharatv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88043244445-7k7v65jpt9c2qs31a7jkqjgj62f2ls66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estisharat.estisharatv1",
+            "certificate_hash": "a49c69d7f2f2c66751cfe6c630caf916f5a7ca07"
+          }
+        },
+        {
+          "client_id": "88043244445-af72nuu2r4rkg5nmk7u21lpsjgfu9s6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvwuHC_XpBzR_rKVQ_buD3nWGSj6FySg0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88043244445-af72nuu2r4rkg5nmk7u21lpsjgfu9s6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

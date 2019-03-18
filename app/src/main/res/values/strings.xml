@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">استشارات</string>
+    <string name="Medicine">الطب</string>
+    <string name="Technology">التكنلوجيا</string>
+    <string name="Law">القانون</string>
+    <string name="Socialworker">اخصائي اجتماعي</string>
+    <string name="Ask">اقتراحات</string>
+    <string name="EducationalSpecialist">اخصائي تربوي</string>
+    <string name="General">عام</string>
+    <string name="dentistry">اسنان</string>
+    <string name="smartphones">الهواتف الذكية</string>
+    <string name="computer">اجهزة الحاسوب</string>
+    <string name="Child">طفل</string>
+    <string name="Famely">اسرة</string>
+    <string name="CommercialLaw">قانون التجاري</string>
+    <string name="ForensicLaw">قانون الشرعي</string>
+    <string name="learningdifficulties">صعوبات التعلم</string>
+    <string name="Learning">التعلم</string>
+    <string name="facebook_app_id">807777896268448</string>
+    <string name="fb_login_protocol_scheme">fb807777896268448</string>
+
+
+
+</resources>
