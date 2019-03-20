@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:firebase-iid:17.0.3@aar">
     <CLASSES>
-      <root url="jar://D:/Abood/OP/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5bd4d9fd771a129bb691650c195e0256/jars/classes.jar!/" />
-      <root url="file://D:/Abood/OP/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/5bd4d9fd771a129bb691650c195e0256/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/d455330a8d80b029d2b51bfb724bbbac/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/d455330a8d80b029d2b51bfb724bbbac/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://D:/Abood/OP/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-iid/17.0.3/f75ec044e44b868f2a037e753b0287889e224837/firebase-iid-17.0.3-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-iid/17.0.3/f75ec044e44b868f2a037e753b0287889e224837/firebase-iid-17.0.3-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

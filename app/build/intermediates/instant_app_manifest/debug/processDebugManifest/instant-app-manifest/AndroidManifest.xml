@@ -24,6 +24,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.estisharat.estisharatv1.brofile" />
         <activity android:name="com.estisharat.estisharatv1.auth" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

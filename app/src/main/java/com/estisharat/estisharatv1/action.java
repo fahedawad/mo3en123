@@ -17,6 +17,9 @@ public class action extends AppCompatActivity {
     TextView title;
     TextView txt1;
     TextView txt2;
+    TextView txt3;
+    ImageView img3;
+    CardView card3;
 
     @RequiresApi(api = Build.VERSION_CODES.JELLY_BEAN)
     @Override
@@ -26,15 +29,17 @@ public class action extends AppCompatActivity {
 
         title = findViewById(R.id.title);
         txt1 =findViewById(R.id.txt1);
-
+        txt3 =findViewById(R.id.txt3);
         txt2 =findViewById(R.id.txt2);
 
         ImageView img1 =findViewById(R.id.img1);
-
+        img3 =findViewById(R.id.img3);
         ImageView img2 =findViewById(R.id.img2);
 
         CardView cardView =findViewById(R.id.card1);
         CardView cardView1 =findViewById(R.id.card2);
+        card3 =findViewById(R.id.card3);
+
 
         ScrollView scrollView=findViewById(R.id.scrol);
         Intent in = getIntent();
@@ -85,6 +90,9 @@ public class action extends AppCompatActivity {
             txt2.setText(R.string.learningdifficulties);
             img1.setImageResource(R.drawable.classroom);
             img2.setImageResource(R.drawable.books);
+            card3.setVisibility(View.VISIBLE);
+            txt3.setText(R.string.Twjihee);
+            img3.setImageResource(R.drawable.studying);
         }
         if(s.equals("asfar")){
 

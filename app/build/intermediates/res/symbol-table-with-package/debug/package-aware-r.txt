@@ -1143,11 +1143,13 @@ drawable ic_menu
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable img
 drawable law
 drawable lawbook
 drawable lawco
 drawable learn
 drawable loagin
+drawable login
 drawable low_24dp
 drawable messenger_bubble_large_blue
 drawable messenger_bubble_large_white
@@ -1175,11 +1177,14 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable pink
+drawable profile
 drawable responsive
 drawable royalblue
 drawable smartphone
 drawable social
 drawable social_24dp
+drawable splash
+drawable studying
 drawable tec_24dp
 drawable thinking
 drawable tooltip_frame_dark
@@ -1223,6 +1228,7 @@ id auto
 id automatic
 id barrier
 id beginning
+id bio
 id blocking
 id bottom
 id box_count
@@ -1232,6 +1238,7 @@ id cancel_action
 id cancel_button
 id card1
 id card2
+id card3
 id center
 id center_horizontal
 id center_vertical
@@ -1301,6 +1308,8 @@ id image
 id img
 id img1
 id img2
+id img3
+id imgpro
 id info
 id inline
 id invisible
@@ -1352,6 +1361,8 @@ id progress_bar
 id progress_circular
 id progress_horizontal
 id radio
+id rating
+id ratingBar
 id rel
 id right
 id right_icon
@@ -1438,6 +1449,7 @@ id transition_scene_layoutid_cache
 id transition_transform
 id txt1
 id txt2
+id txt3
 id uniform
 id unknown
 id unlabeled
@@ -1500,6 +1512,7 @@ layout abc_tooltip
 layout activity_action
 layout activity_adapter
 layout activity_auth
+layout activity_brofile
 layout activity_main
 layout activity_splash
 layout com_facebook_activity_layout
@@ -1565,6 +1578,7 @@ string Learning
 string Medicine
 string Socialworker
 string Technology
+string Twjihee
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1606,6 +1620,7 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string appbar_scrolling_view_behavior
+string bio
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_pattern
@@ -1667,12 +1682,14 @@ string hide_bottom_view_on_scroll_behavior
 string learningdifficulties
 string messenger_send_button_text
 string mtrl_chip_close_icon_content_description
+string name
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string project_id
+string rating
 string search_menu_title
 string smartphones
 string status_bar_notification_info_overflow
