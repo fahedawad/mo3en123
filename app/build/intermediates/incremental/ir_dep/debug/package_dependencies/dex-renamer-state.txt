@@ -1,4 +1,7 @@
-#Wed Mar 20 20:55:52 EET 2019
-base.0=C\:\\Users\\pc-streams\\Desktop\\mo3en\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+#Sat Mar 23 15:33:41 EET 2019
+base.0=I\:\\mosab projects\\mo3en\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.1=classes2.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=I\:\\mosab projects\\mo3en\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10

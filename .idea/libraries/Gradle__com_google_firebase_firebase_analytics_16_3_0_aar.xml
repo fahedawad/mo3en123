@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:firebase-analytics:16.3.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.3.0.aar/b81a6a2027c425674189b29ebc2e5cc7/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.3.0.aar/b81a6a2027c425674189b29ebc2e5cc7/res" />
+      <root url="file://D:/Abood/OP/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.3.0.aar/1b9beb479caf520764b73ea092670231/res" />
+      <root url="jar://D:/Abood/OP/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.3.0.aar/1b9beb479caf520764b73ea092670231/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-analytics/16.3.0/82d8b1df9370a3e5e1d2d6cd8efb03eb476670a1/firebase-analytics-16.3.0-javadoc.jar!/" />
+      <root url="jar://D:/Abood/OP/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-analytics/16.3.0/82d8b1df9370a3e5e1d2d6cd8efb03eb476670a1/firebase-analytics-16.3.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

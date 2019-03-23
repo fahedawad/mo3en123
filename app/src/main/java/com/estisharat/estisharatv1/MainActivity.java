@@ -18,14 +18,14 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 import com.squareup.picasso.Picasso;
 
 import java.util.zip.Inflater;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
-
-
     CardView medicine;
     CardView tech;
     CardView social;
@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     RelativeLayout relativeLayout;
     TextView name;
     ImageView imageView;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -83,7 +82,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         Intent intent = getIntent();
         name.setText(intent.getStringExtra("name"));
         imageView = view.findViewById(R.id.image);
-        System.out.println(intent.getStringExtra("image"));
         Picasso.get().load(intent.getStringExtra("image")).into(imageView);
         medicine = findViewById(R.id.mid);
         tech = findViewById(R.id.tech);
@@ -94,7 +92,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         medicine.setOnClickListener(this.onClickListener(R.id.mid, this, "pink"));
         tech.setOnClickListener(this.onClickListener(R.id.tech, this, "blue"));
         social.setOnClickListener(this.onClickListener(R.id.social, this, "royalblue"));
-       law.setOnClickListener(this.onClickListener(R.id.law, this, "boldgreen"));
+        law.setOnClickListener(this.onClickListener(R.id.law, this, "boldgreen"));
         leran.setOnClickListener(this.onClickListener(R.id.leran, this, "green"));
         help.setOnClickListener(this.onClickListener(R.id.help, this, "asfar"));
 
@@ -118,6 +116,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
         switch (menuItem.getItemId()){
             case R.id.sign_out:
+                FirebaseAuth.getInstance().getCurrentUser().delete();
                 FirebaseAuth.getInstance().signOut();
                 startActivity(new Intent(MainActivity.this,auth.class));
         }

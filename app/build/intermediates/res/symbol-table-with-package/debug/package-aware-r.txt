@@ -1140,6 +1140,7 @@ drawable hospital_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_menu
+drawable ic_message_black_24dp
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
@@ -1178,6 +1179,7 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable pink
 drawable profile
+drawable psychologue
 drawable responsive
 drawable royalblue
 drawable smartphone
@@ -1239,6 +1241,7 @@ id cancel_button
 id card1
 id card2
 id card3
+id card4
 id center
 id center_horizontal
 id center_vertical
@@ -1297,6 +1300,7 @@ id grid
 id group_divider
 id group_menu
 id groups
+id gust
 id help
 id home
 id homeAsUp
@@ -1309,6 +1313,7 @@ id img
 id img1
 id img2
 id img3
+id img4
 id imgpro
 id info
 id inline
@@ -1363,6 +1368,7 @@ id progress_horizontal
 id radio
 id rating
 id ratingBar
+id rec
 id rel
 id right
 id right_icon
@@ -1450,6 +1456,7 @@ id transition_transform
 id txt1
 id txt2
 id txt3
+id txt4
 id uniform
 id unknown
 id unlabeled
@@ -1515,6 +1522,7 @@ layout activity_auth
 layout activity_brofile
 layout activity_main
 layout activity_splash
+layout agent
 layout com_facebook_activity_layout
 layout com_facebook_device_auth_dialog_fragment
 layout com_facebook_login_fragment
@@ -1689,6 +1697,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string project_id
+string psychological_guidance
 string rating
 string search_menu_title
 string smartphones

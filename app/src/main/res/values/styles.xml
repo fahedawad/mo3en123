@@ -8,5 +8,4 @@
         <item name="colorPrimaryDark">@android:color/holo_blue_light</item>
         <item name="colorAccent">@android:color/holo_purple</item>
     </style>
-
 </resources>

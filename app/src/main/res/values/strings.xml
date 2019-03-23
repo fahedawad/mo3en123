@@ -17,11 +17,10 @@
     <string name="learningdifficulties">صعوبات التعلم</string>
     <string name="name">الاسم:</string>
     <string name="bio">السيرة الذاتية:</string>
-    <string name="Learning">الارشاد النفسي</string>
+    <string name="Learning">التعليم</string>
     <string name="rating">التقيم</string>
     <string name="Twjihee">الثانوية العامة</string>
     <string name="facebook_app_id">807777896268448</string>
     <string name="fb_login_protocol_scheme">fb807777896268448</string>
-
-
+    <string name="psychological_guidance">الارشاد النفسي</string>
 </resources>

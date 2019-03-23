@@ -2,6 +2,7 @@ package com.estisharat.estisharatv1;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.res.Resources;
 import android.os.Build;
 import android.support.annotation.RequiresApi;
 import android.support.v7.app.AppCompatActivity;
@@ -17,9 +18,9 @@ public class action extends AppCompatActivity {
     TextView title;
     TextView txt1;
     TextView txt2;
-    TextView txt3;
-    ImageView img3;
-    CardView card3;
+    TextView txt3,txt4;
+    ImageView img3,img4;
+    CardView card3,card4;
 
     @RequiresApi(api = Build.VERSION_CODES.JELLY_BEAN)
     @Override
@@ -31,68 +32,77 @@ public class action extends AppCompatActivity {
         txt1 =findViewById(R.id.txt1);
         txt3 =findViewById(R.id.txt3);
         txt2 =findViewById(R.id.txt2);
-
         ImageView img1 =findViewById(R.id.img1);
         img3 =findViewById(R.id.img3);
         ImageView img2 =findViewById(R.id.img2);
-
         CardView cardView =findViewById(R.id.card1);
         CardView cardView1 =findViewById(R.id.card2);
         card3 =findViewById(R.id.card3);
-
-
+        card4 = findViewById(R.id.card4);
+        txt4 = findViewById(R.id.txt4);
+        img4 = findViewById(R.id.img4);
         ScrollView scrollView=findViewById(R.id.scrol);
         Intent in = getIntent();
         String s = in.getStringExtra("color");
 
         if(s.contains("pink")){
-
             title.setText(R.string.Medicine);
+            title.setTag("Medicine");
             txt1.setText(R.string.General);
            txt2.setText(R.string.dentistry);
+            txt1.setTag("General");
+            txt2.setTag("dentistry");
            img1.setImageResource(R.drawable.doctor);
-            img2.setImageResource(R.drawable.tooth);
+           img2.setImageResource(R.drawable.tooth);
         }
         if(s.equals("blue")){
-
-
             title.setText(R.string.Technology);
+            title.setTag("Technology");
             txt1.setText(R.string.smartphones);
             txt2.setText(R.string.computer);
+            txt1.setTag("smart phones");
+            txt2.setTag("computer");
             img1.setImageResource(R.drawable.smartphone);
             img2.setImageResource(R.drawable.responsive);
 
         }
         if(s.equals("royalblue")){
-
-
             title.setText(R.string.Socialworker);
+            title.setTag("Social worker");
             txt1.setText(R.string.Famely);
             txt2.setText(R.string.Child);
+            txt1.setTag("Family");
+            txt2.setTag("Child");
             img1.setImageResource(R.drawable.family);
             img2.setImageResource(R.drawable.baby);
         }
         if(s.equals("boldgreen")){
-
-
             title.setText(R.string.Law);
+            title.setTag("Law");
             txt1.setText(R.string.CommercialLaw);
             txt2.setText(R.string.ForensicLaw);
+            txt1.setTag("Commercial Law");
+            txt2.setTag("Forensic Law");
             img1.setImageResource(R.drawable.lawco);
             img2.setImageResource(R.drawable.lawbook);
-
         }
         if(s.equals("green")){
-
-
             title.setText(R.string.EducationalSpecialist);
+            title.setTag("Educational Specialist");
             txt1.setText(R.string.Learning);
             txt2.setText(R.string.learningdifficulties);
+            txt3.setText(R.string.Twjihee);
+            txt4.setText(R.string.psychological_guidance);
+            txt1.setTag("Learning");
+            txt2.setTag("learning difficulties");
+            txt3.setTag("Twjihee");
+            txt4.setTag("psychological guidance");
             img1.setImageResource(R.drawable.classroom);
             img2.setImageResource(R.drawable.books);
             card3.setVisibility(View.VISIBLE);
-            txt3.setText(R.string.Twjihee);
             img3.setImageResource(R.drawable.studying);
+            card4.setVisibility(View.VISIBLE);
+            img4.setImageResource(R.drawable.psychologue);
         }
         if(s.equals("asfar")){
 
@@ -100,11 +110,11 @@ public class action extends AppCompatActivity {
             txt1.setText("");
             txt2.setText("");
         }
-
-
-        cardView.setOnClickListener(this.onClickListener(R.id.card1, this, "dint"));
-        cardView1.setOnClickListener(this.onClickListener(R.id.card2, this, "general"));
-
+        cardView.setOnClickListener(this.onClickListener(R.id.card1, this,txt1.getTag().toString()));
+        cardView1.setOnClickListener(this.onClickListener(R.id.card2, this, txt2.getTag().toString()));
+        if (card3.getVisibility()!= View.GONE){
+        card3.setOnClickListener(this.onClickListener(R.id.card3, this, txt3.getTag().toString()));
+        card4.setOnClickListener(this.onClickListener(R.id.card4, this, txt4.getTag().toString()));}
     }
 
 
@@ -113,10 +123,10 @@ public class action extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent in = new Intent(con, adapter.class);
-                in.putExtra("key", content);
+                in.putExtra("sub_collection", content);
+                in.putExtra("collection",title.getTag().toString());
                 startActivity(in);
             }
         };
     }
-
 }
