@@ -1073,6 +1073,7 @@ drawable boldgreen
 drawable book_24dp
 drawable books
 drawable bule
+drawable circle
 drawable classroom
 drawable com_facebook_auth_dialog_background
 drawable com_facebook_auth_dialog_cancel_background
@@ -1144,6 +1145,7 @@ drawable ic_message_black_24dp
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_send_black_24dp
 drawable img
 drawable law
 drawable lawbook
@@ -1164,6 +1166,7 @@ drawable messenger_button_white_bg_selector
 drawable moeen
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
+drawable my_message
 drawable navigation_empty_icon
 drawable notification_action_background
 drawable notification_bg
@@ -1188,6 +1191,7 @@ drawable social_24dp
 drawable splash
 drawable studying
 drawable tec_24dp
+drawable their_message
 drawable thinking
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1228,6 +1232,7 @@ id always
 id async
 id auto
 id automatic
+id avatar
 id barrier
 id beginning
 id bio
@@ -1280,6 +1285,7 @@ id dimensions
 id direct
 id disableHome
 id display_always
+id editText
 id edit_query
 id end
 id end_padder
@@ -1335,6 +1341,8 @@ id login_button
 id masked
 id media_actions
 id message
+id message_body
+id messages_view
 id messenger_send_button
 id mid
 id middle
@@ -1521,6 +1529,7 @@ layout activity_adapter
 layout activity_auth
 layout activity_brofile
 layout activity_main
+layout activity_message
 layout activity_splash
 layout agent
 layout com_facebook_activity_layout
@@ -1550,6 +1559,7 @@ layout messenger_button_send_white_round
 layout messenger_button_send_white_small
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
+layout my_message
 layout nav_header
 layout notification_action
 layout notification_action_tombstone
@@ -1570,6 +1580,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+layout their_message
 menu nav_menu
 mipmap __ic_launcher
 mipmap ic_launcher

@@ -51,6 +51,7 @@ public class adapteragent extends RecyclerView.Adapter<adapteragent.MyViewHolder
                 intent.putExtra("name",dataset.get(i).getName());
                 intent.putExtra("img",dataset.get(i).getImg());
                 intent.putExtra("bio",dataset.get(i).getBio());
+                intent.putExtra("email",dataset.get(i).getEmail());
                 context.startActivity(intent);
             }
         });

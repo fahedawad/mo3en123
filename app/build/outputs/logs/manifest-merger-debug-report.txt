@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-54:12
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-55:12
 MERGED from [com.android.support:design:28.0.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f11784b479cba9ca04e02fe66c3e6e90\AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.40.0.aar\0e11eb3b046348801d0b67f90bb0ab7e\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-login:4.40.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\facebook-login-4.40.0.aar\460190eb7401c7c7757e3e9070136092\AndroidManifest.xml:21:1-31:12
@@ -18,6 +18,7 @@ MERGED from [com.google.firebase:firebase-auth:16.2.0] D:\Abood\OP\.gradle\cache
 MERGED from [com.squareup.picasso:picasso:2.71828] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f59209b851303c625f944126d14082be\AndroidManifest.xml:2:1-14:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\08eca94ba95ec4e81f2b7d823d70add6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:15:1-36:12
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\6e1d8e1d12d16a7a3f9369d1b8bca3b6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\f0e3cf74bb6dfbb01d7083717fe38a07\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-analytics:16.4.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\affdcf6788da23ed2476dd538a1c3efa\AndroidManifest.xml:2:1-9:12
@@ -74,20 +75,20 @@ MERGED from [android.arch.core:runtime:1.1.1] D:\Abood\OP\.gradle\caches\transfo
 MERGED from [com.google.firebase:firebase-database-collection:16.0.1] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\e14a50eb215580c75de6d3bd498e6405\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-16.0.1.aar\b58d018d93d6558cc4970678ec792797\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.16.1] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\grpc-android-1.16.1.aar\5ee804e8b2e1e118ea90d536efd4168a\AndroidManifest.xml:2:1-13:12
-INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-55:12
 	package
 		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
 		INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-54:12
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-55:12
 		INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-54:12
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-55:12
 		INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:11-69
@@ -95,6 +96,8 @@ uses-permission#android.permission.INTERNET
 ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\317325a0e9c0b9eb7aa494b108ad3194\AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\317325a0e9c0b9eb7aa494b108ad3194\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:17.0.3] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\5bd4d9fd771a129bb691650c195e0256\AndroidManifest.xml:23:5-67
@@ -108,7 +111,7 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] D:
 	android:name
 		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:7:5-52:19
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:7:5-53:19
 MERGED from [com.android.support:design:28.0.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f11784b479cba9ca04e02fe66c3e6e90\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f11784b479cba9ca04e02fe66c3e6e90\AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.40.0.aar\0e11eb3b046348801d0b67f90bb0ab7e\AndroidManifest.xml:28:5-29:19
@@ -131,6 +134,8 @@ MERGED from [com.squareup.picasso:picasso:2.71828] D:\Abood\OP\.gradle\caches\tr
 MERGED from [com.squareup.picasso:picasso:2.71828] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f59209b851303c625f944126d14082be\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:16:5-22:19
 MERGED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:28:5-34:19
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\f0e3cf74bb6dfbb01d7083717fe38a07\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\f0e3cf74bb6dfbb01d7083717fe38a07\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-analytics:16.4.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.4.0.aar\affdcf6788da23ed2476dd538a1c3efa\AndroidManifest.xml:7:5-20
@@ -191,84 +196,88 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Abood\OP\.gradle
 		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.estisharat.estisharatv1.message_activity
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:13:9-63
+	android:name
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:13:19-51
 activity#com.estisharat.estisharatv1.brofile
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:13:9-54
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:14:9-45
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:13:19-42
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:14:19-42
 activity#com.estisharat.estisharatv1.auth
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:14:19-39
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:15:19-39
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.estisharat.estisharatv1.action
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:21:9-44
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:22:9-44
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:21:19-41
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:22:19-41
 activity#com.estisharat.estisharatv1.MainActivity
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:22:9-50
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:23:9-50
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:22:19-47
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:23:19-47
 activity#com.estisharat.estisharatv1.splash
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:23:9-29:20
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:24:9-30:20
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:23:19-41
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:24:19-41
 activity#com.estisharat.estisharatv1.adapter
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:30:9-45
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:31:9-45
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:30:19-42
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:31:19-42
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:32:9-34:55
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:33:9-35:55
 	android:value
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:34:13-52
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:35:13-52
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:33:13-58
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:34:13-58
 activity#com.facebook.FacebookActivity
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:36:9-39:48
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:37:9-40:48
 MERGED from [com.facebook.android:facebook-common:4.40.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\facebook-common-4.40.0.aar\65a8fd9afe740df6891c11427ea3b58b\AndroidManifest.xml:29:9-32:66
 MERGED from [com.facebook.android:facebook-common:4.40.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\facebook-common-4.40.0.aar\65a8fd9afe740df6891c11427ea3b58b\AndroidManifest.xml:29:9-32:66
 	android:label
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:39:13-45
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:40:13-45
 	android:configChanges
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:38:13-96
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:39:13-96
 	android:theme
 		ADDED from [com.facebook.android:facebook-common:4.40.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\facebook-common-4.40.0.aar\65a8fd9afe740df6891c11427ea3b58b\AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:37:13-57
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:38:13-57
 activity#com.facebook.CustomTabActivity
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:40:9-51:20
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:41:9-52:20
 MERGED from [com.facebook.android:facebook-common:4.40.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\facebook-common-4.40.0.aar\65a8fd9afe740df6891c11427ea3b58b\AndroidManifest.xml:34:9-67
 MERGED from [com.facebook.android:facebook-common:4.40.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\facebook-common-4.40.0.aar\65a8fd9afe740df6891c11427ea3b58b\AndroidManifest.xml:34:9-67
 	android:exported
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:42:13-36
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:43:13-36
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:41:13-58
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:42:13-58
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:43:13-50:29
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:44:13-51:29
 action#android.intent.action.VIEW
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:44:17-69
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:44:25-66
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:45:25-66
 category#android.intent.category.DEFAULT
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:46:17-76
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:47:17-76
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:46:27-73
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:47:27-73
 category#android.intent.category.BROWSABLE
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:47:17-78
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:48:17-78
 	android:name
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:47:27-75
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:48:27-75
 data
-ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:49:17-75
+ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:50:17-75
 	android:scheme
-		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:49:23-72
+		ADDED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:50:23-72
 uses-sdk
 INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from I:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
@@ -301,6 +310,8 @@ MERGED from [com.android.support:recyclerview-v7:28.0.0] D:\Abood\OP\.gradle\cac
 MERGED from [com.android.support:recyclerview-v7:28.0.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\08eca94ba95ec4e81f2b7d823d70add6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\6e1d8e1d12d16a7a3f9369d1b8bca3b6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\6e1d8e1d12d16a7a3f9369d1b8bca3b6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\f0e3cf74bb6dfbb01d7083717fe38a07\AndroidManifest.xml:5:5-44
@@ -447,6 +458,8 @@ service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.firebase:firebase-auth:16.2.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.2.0.aar\2f5688fd39294daf555593c52c8c3b98\AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:17:9-21:19
 MERGED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:29:9-33:19
 MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\317325a0e9c0b9eb7aa494b108ad3194\AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\317325a0e9c0b9eb7aa494b108ad3194\AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.firebase:firebase-iid:17.0.3] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\5bd4d9fd771a129bb691650c195e0256\AndroidManifest.xml:29:9-35:19
@@ -471,6 +484,8 @@ ADDED from [com.squareup.picasso:picasso:2.71828] D:\Abood\OP\.gradle\caches\tra
 		ADDED from [com.squareup.picasso:picasso:2.71828] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\f59209b851303c625f944126d14082be\AndroidManifest.xml:9:13-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\317325a0e9c0b9eb7aa494b108ad3194\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\317325a0e9c0b9eb7aa494b108ad3194\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-iid:17.0.3] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\5bd4d9fd771a129bb691650c195e0256\AndroidManifest.xml:22:5-79
@@ -491,6 +506,12 @@ ADDED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\c
 		ADDED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:20:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-firestore:18.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-firestore-18.1.0.aar\4e9ab1cbfa0eac262109455c346d9430\AndroidManifest.xml:19:17-111
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-database-16.1.0.aar\5dd3c4a8abf0260a3128c0d93a7724f5\AndroidManifest.xml:31:17-109
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.4.0.aar\317325a0e9c0b9eb7aa494b108ad3194\AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:17.0.3] D:\Abood\OP\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\5bd4d9fd771a129bb691650c195e0256\AndroidManifest.xml:24:5-68

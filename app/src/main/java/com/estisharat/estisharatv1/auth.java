@@ -35,6 +35,7 @@ public class auth extends AppCompatActivity {
     private static final String TAG = "FACELOG";
     private FirebaseAuth mAuth;
     Button gust;
+    String name;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -43,6 +44,7 @@ public class auth extends AppCompatActivity {
         AppEventsLogger.activateApp(this);
         gust=findViewById(R.id.gust);
         mAuth = FirebaseAuth.getInstance();
+        name = "gust"+ new Random().nextInt();
         gust.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -128,7 +130,10 @@ public class auth extends AppCompatActivity {
         FirebaseUser currentUser = mAuth.getCurrentUser();
         if (currentUser!=null){
             Intent intent = new Intent(auth.this,MainActivity.class);
-            intent.putExtra("name",currentUser.getDisplayName());
+            if (currentUser.isAnonymous()){
+                intent.putExtra("name",name);
+            }
+            else {intent.putExtra("name",currentUser.getDisplayName());}
             intent.putExtra("uid",currentUser.getUid());
             startActivity(intent);
         }
