@@ -1,4 +1,4 @@
-#Sat Mar 23 17:12:02 EET 2019
-base.0=I\:\\mosab projects\\mo3en\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+#Sun Mar 24 17:58:45 EET 2019
+base.0=/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/transforms/dexMerger/debug/1
 path.0=classes.dex
 renamed.0=classes.dex

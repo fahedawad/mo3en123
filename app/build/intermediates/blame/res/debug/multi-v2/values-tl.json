@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "I:\\mosab projects\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
+            "outputFile": "H:\\mosab projects\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
             "map": [
                 {
-                    "source": "D:\\Abood\\OP\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\c4cebc06659f5befbe9a363addd664fc\\res\\values-tl\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "245,350,558,694,801,1018,1152,1300,1438,1676,1781,1990,2126,2347,2552,2646,2738",
-                        "endColumns": "104,207,135,106,216,133,147,137,237,104,208,135,220,204,93,91,105",
-                        "endOffsets": "349,557,693,800,1017,1151,1299,1437,1675,1780,1989,2125,2346,2551,2645,2737,2843"
-                    },
-                    "to": {
-                        "startLines": "51,52,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "5378,5487,5695,5835,5946,6163,6301,6453,6800,7038,7147,7356,7496,7717,7926,8024,8120",
-                        "endColumns": "108,207,139,110,216,137,151,141,237,108,208,139,220,208,97,95,109",
-                        "endOffsets": "5482,5690,5830,5941,6158,6296,6448,6590,7033,7142,7351,7491,7712,7921,8019,8115,8225"
-                    }
-                },
-                {
-                    "source": "D:\\Abood\\OP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\03fa946eb5e3c2d3a5b7b55cad9b8782\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ef2bce1bbd76a0f2f344ec9561580b77\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Abood\\OP\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\6fa0b27e18091108c570b6ed26d19b8c\\res\\values-tl\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "204",
-                        "endOffsets": "451"
-                    },
-                    "to": {
-                        "startLines": "59",
-                        "startColumns": "4",
-                        "startOffsets": "6595",
-                        "endColumns": "204",
-                        "endOffsets": "6795"
-                    }
-                },
-                {
-                    "source": "D:\\Abood\\OP\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.40.0.aar\\460190eb7401c7c7757e3e9070136092\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.40.0.aar\\8e34802e3819590ec2756a5da52b198f\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -72,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "D:\\Abood\\OP\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\871be9862ef5e3eb5ff599287375470d\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\acaa3a438ce4fe6f746ac7e34bcd86e6\\res\\values-tl\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,350,558,694,801,1018,1152,1300,1438,1676,1781,1990,2126,2347,2552,2646,2738",
+                        "endColumns": "104,207,135,106,216,133,147,137,237,104,208,135,220,204,93,91,105",
+                        "endOffsets": "349,557,693,800,1017,1151,1299,1437,1675,1780,1989,2125,2346,2551,2645,2737,2843"
+                    },
+                    "to": {
+                        "startLines": "51,52,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5378,5487,5695,5835,5946,6163,6301,6453,6800,7038,7147,7356,7496,7717,7926,8024,8120",
+                        "endColumns": "108,207,139,110,216,137,151,141,237,108,208,139,220,208,97,95,109",
+                        "endOffsets": "5482,5690,5830,5941,6158,6296,6448,6590,7033,7142,7351,7491,7712,7921,8019,8115,8225"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\8f8701a5b2fecf6071a73ee2e167161f\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -86,6 +69,23 @@
                         "startOffsets": "8314",
                         "endColumns": "100",
                         "endOffsets": "8410"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\6f42c72662f29f88a7a5d2e320c3d996\\res\\values-tl\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "59",
+                        "startColumns": "4",
+                        "startOffsets": "6595",
+                        "endColumns": "204",
+                        "endOffsets": "6795"
                     }
                 }
             ]

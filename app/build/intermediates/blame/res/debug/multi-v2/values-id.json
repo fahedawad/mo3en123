@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "I:\\mosab projects\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "H:\\mosab projects\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
-                    "source": "D:\\Abood\\OP\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-common-4.40.0.aar\\65a8fd9afe740df6891c11427ea3b58b\\res\\values-id\\values-id.xml",
+                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-common-4.40.0.aar\\5932d1ac60e53bfab103b5daacc7791f\\res\\values-id\\values-id.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

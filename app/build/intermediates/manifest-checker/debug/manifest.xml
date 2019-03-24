@@ -26,6 +26,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.estisharat.estisharatv1.rating" />
         <activity android:name="com.estisharat.estisharatv1.message_activity" />
         <activity android:name="com.estisharat.estisharatv1.brofile" />
         <activity android:name="com.estisharat.estisharatv1.auth" >
@@ -96,11 +97,6 @@
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
 
-        <provider
-            android:name="com.squareup.picasso.PicassoProvider"
-            android:authorities="com.estisharat.estisharatv1.com.squareup.picasso"
-            android:exported="false" />
-
         <receiver
             android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
             android:exported="true"
@@ -161,6 +157,10 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.estisharat.estisharatv1.com.squareup.picasso"
+            android:exported="false" />
         <provider
             android:name="com.facebook.marketing.internal.MarketingInitProvider"
             android:authorities="com.estisharat.estisharatv1.MarketingInitProvider"

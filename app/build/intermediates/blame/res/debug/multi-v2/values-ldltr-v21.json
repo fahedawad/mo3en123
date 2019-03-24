@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "I:\\mosab projects\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "outputFile": "H:\\mosab projects\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "D:\\Abood\\OP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\03fa946eb5e3c2d3a5b7b55cad9b8782\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ef2bce1bbd76a0f2f344ec9561580b77\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

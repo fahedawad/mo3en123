@@ -18,6 +18,7 @@
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 
     <application
+        android:name="android.support.multidex.MultiDexApplication"
         android:allowBackup="true"
         android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:debuggable="true"
@@ -26,9 +27,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.estisharat.estisharatv1.rating" />
         <activity android:name="com.estisharat.estisharatv1.message_activity" />
         <activity android:name="com.estisharat.estisharatv1.brofile" />
-        <activity android:name="com.estisharat.estisharatv1.auth" >
+        <activity android:name="com.estisharat.estisharatv1.splash" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -37,12 +39,7 @@
         </activity>
         <activity android:name="com.estisharat.estisharatv1.action" />
         <activity android:name="com.estisharat.estisharatv1.MainActivity" />
-        <activity android:name="com.estisharat.estisharatv1.splash" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+        <activity android:name="com.estisharat.estisharatv1.auth" >
         </activity>
         <activity android:name="com.estisharat.estisharatv1.adapter" />
 
@@ -95,11 +92,6 @@
                 android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
-
-        <provider
-            android:name="com.squareup.picasso.PicassoProvider"
-            android:authorities="com.estisharat.estisharatv1.com.squareup.picasso"
-            android:exported="false" />
 
         <receiver
             android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
@@ -162,6 +154,10 @@
             android:value="@integer/google_play_services_version" />
 
         <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.estisharat.estisharatv1.com.squareup.picasso"
+            android:exported="false" />
+        <provider
             android:name="com.facebook.marketing.internal.MarketingInitProvider"
             android:authorities="com.estisharat.estisharatv1.MarketingInitProvider"
             android:exported="false" />
@@ -186,11 +182,6 @@
                 <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
             </intent-filter>
         </receiver>
-
-        <provider
-            android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.estisharat.estisharatv1.com.android.tools.ir.server.InstantRunContentProvider"
-            android:multiprocess="true" />
     </application>
 
 </manifest>

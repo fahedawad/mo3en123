@@ -23,7 +23,7 @@ public class splash extends AppCompatActivity {
             public void run() {
                 try{
                 sleep(2500);
-                Intent intent =new Intent(getApplicationContext(),MainActivity.class);
+                Intent intent =new Intent(getApplicationContext(),auth.class);
                 startActivity(intent);
                 }
 

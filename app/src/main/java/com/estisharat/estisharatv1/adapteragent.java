@@ -43,7 +43,7 @@ public class adapteragent extends RecyclerView.Adapter<adapteragent.MyViewHolder
         ImageView imageView = myViewHolder.imageView;
         CardView cardView = myViewHolder.card;
         name.setText(dataset.get(i).getName());
-        Picasso.get().load(dataset.get(i).getImg()).resize(100,100).into(imageView);
+        Picasso.get().load(dataset.get(i).getImg()).resize(300,300).into(imageView);
         cardView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

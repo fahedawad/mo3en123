@@ -38,26 +38,19 @@ public class message_activity extends AppCompatActivity {
         messagesView.setAdapter(messageAdapter);
         String em = getIntent().getStringExtra("email");
         String email1 = (em).substring(0, (em).indexOf("."));
-
         dbr= FirebaseDatabase.getInstance().getReference("chat").child(FirebaseAuth.getInstance().getCurrentUser().getUid()
                 +"_"+email1);
         dbr.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                try {
-                    //messageAdapter.removeall();
+                    messageAdapter.removeall();
                     for (DataSnapshot ds : dataSnapshot.getChildren()){
-                        String me = ds.getValue(String.class);
-                        //String me = dataSnapshot.child(ds.getKey()).getValue(String.class);
-                        String name = ds.getKey().substring(ds.getKey().indexOf("@"),ds.getKey().length());
-                        System.out.println(name);
-                        Message message = new Message(me,data,true);
+                        boolean belong = (ds.getKey().substring(ds.getKey().indexOf("@")+1)).equals(FirebaseAuth.getInstance().getCurrentUser().getUid());
+                        String mesaage = ds.getValue(String.class);
+                        Message message = new Message(mesaage,data,belong);
                         messageAdapter.add(message);
-                        // scroll the ListView to the last added element
                         messagesView.setSelection(messagesView.getCount() - 1);}
-                }
-                catch (Exception e){
-                }
+
             }
             @Override
             public void onCancelled(@NonNull DatabaseError databaseError) {
@@ -88,7 +81,7 @@ public class message_activity extends AppCompatActivity {
         }
         if (message.length() > 0) {
             if(countmessage<1){
-                dbr.child(time+""+data.getName()).setValue(message);
+                dbr.child(time+"@"+data.getName()).setValue(message);
                 Message messag = new Message(message,data,true);
                 messageAdapter.add(messag);
                 // scroll the ListView to the last added element
@@ -112,12 +105,10 @@ public class message_activity extends AppCompatActivity {
 class MemberData {
     private String name;
     private String color;
-
     public MemberData(String name, String color) {
         this.name = name;
         this.color = color;
     }
-    // Add an empty constructor so we can later parse JSON into MemberData using Jackson
     public MemberData() {
     }
     public String getName() {
