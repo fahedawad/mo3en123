@@ -89,20 +89,21 @@ public class action extends AppCompatActivity {
         if(s.equals("green")){
             title.setText(R.string.EducationalSpecialist);
             title.setTag("Educational Specialist");
-            txt1.setText(R.string.Learning);
+            txt4.setText(R.string.university);
             txt2.setText(R.string.learningdifficulties);
             txt3.setText(R.string.Twjihee);
-            txt4.setText(R.string.psychological_guidance);
-            txt1.setTag("Learning");
+            txt1.setText(R.string.psychological_guidance);
+            txt4.setTag("University");
             txt2.setTag("learning difficulties");
             txt3.setTag("Twjihee");
-            txt4.setTag("psychological guidance");
-            img1.setImageResource(R.drawable.classroom);
+            txt1.setTag("psychological guidance");
+            img1.setImageResource(R.drawable.psychologue);
             img2.setImageResource(R.drawable.books);
             card3.setVisibility(View.VISIBLE);
             img3.setImageResource(R.drawable.studying);
             card4.setVisibility(View.VISIBLE);
-            img4.setImageResource(R.drawable.psychologue);
+            img4.setImageResource(R.drawable.university);
+            img4.setScaleType(ImageView.ScaleType.FIT_XY);
         }
         if(s.equals("asfar")){
 
@@ -110,10 +111,13 @@ public class action extends AppCompatActivity {
             txt1.setText("");
             txt2.setText("");
         }
-        cardView.setOnClickListener(this.onClickListener(R.id.card1, this,txt1.getTag().toString()));
-        cardView1.setOnClickListener(this.onClickListener(R.id.card2, this, txt2.getTag().toString()));
+        if (cardView.getVisibility()!= View.GONE){
+        cardView.setOnClickListener(this.onClickListener(R.id.card1, this,txt1.getTag().toString()));}
+        if (cardView1.getVisibility()!= View.GONE){
+        cardView1.setOnClickListener(this.onClickListener(R.id.card2, this, txt2.getTag().toString()));}
         if (card3.getVisibility()!= View.GONE){
-        card3.setOnClickListener(this.onClickListener(R.id.card3, this, txt3.getTag().toString()));
+        card3.setOnClickListener(this.onClickListener(R.id.card3, this, txt3.getTag().toString()));}
+        if (card4.getVisibility()!= View.GONE){
         card4.setOnClickListener(this.onClickListener(R.id.card4, this, txt4.getTag().toString()));}
     }
 

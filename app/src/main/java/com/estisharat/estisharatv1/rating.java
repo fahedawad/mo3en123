@@ -49,7 +49,7 @@ public class rating extends Dialog {
                         float new_sum_rating = sum_rating+ratingRatingBar.getRating();
                         db.child(id).child("sum_rating").setValue((sum_rating+ratingRatingBar.getRating())+"");
                         db.child(id).child("rating_count").setValue((rating_count+1)+"");
-                        db.child(id).child("rating").setValue((new_sum_rating/rating_count)+"");
+                        db.child(id).child("rating").setValue((new_sum_rating/rating_count+1)+"");
                     }
 
                     @Override
@@ -57,7 +57,7 @@ public class rating extends Dialog {
 
                     }
                 });
-                context1.startActivity(new Intent(context1,auth.class));
+                rating.this.cancel();
             }
         });
     }

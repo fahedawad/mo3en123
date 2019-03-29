@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">استشارات</string>
+    <string name="app_name">معين</string>
     <string name="Medicine">الطب</string>
     <string name="Technology">التكنلوجيا</string>
     <string name="Law">القانون</string>
@@ -17,7 +17,7 @@
     <string name="learningdifficulties">صعوبات التعلم</string>
     <string name="name">الاسم:</string>
     <string name="bio">السيرة الذاتية:</string>
-    <string name="Learning">التعليم</string>
+    <string name="university">الضغوطات الجامعية</string>
     <string name="rating">التقيم</string>
     <string name="Twjihee">الثانوية العامة</string>
     <string name="facebook_app_id">807777896268448</string>

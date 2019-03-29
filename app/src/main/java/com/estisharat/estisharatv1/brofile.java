@@ -15,6 +15,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.squareup.picasso.Picasso;
 
 public class brofile extends AppCompatActivity {
     ImageView profil;
@@ -22,7 +23,7 @@ public class brofile extends AppCompatActivity {
     TextView bio;
     String img;
     ImageView message;
-    ImageButton rate;
+    ImageView rate;
     DatabaseReference db;
 
 
@@ -33,10 +34,10 @@ public class brofile extends AppCompatActivity {
         profil =findViewById(R.id.imgpro);
         name =findViewById(R.id.name);
         bio =findViewById(R.id.bio);
-        name.setText("Name : "+getIntent().getStringExtra("name"));
-        bio.setText("Bio : "+getIntent().getStringExtra("bio"));
+        name.setText(getIntent().getStringExtra("name"));
+        bio.setText(getIntent().getStringExtra("bio"));
         img = getIntent().getStringExtra("img");
-        new ImageLoadTask(img, profil).execute();
+        Picasso.get().load(img).resize(500,500).into(profil);
         rate = findViewById(R.id.imageButton);
         String em = getIntent().getStringExtra("email");
         final String email1 = (em).substring(0, (em).indexOf("."));

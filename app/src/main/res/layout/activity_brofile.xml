@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_gravity="center"
-    android:background="@drawable/profile"
-    android:gravity="center"
-    android:orientation="vertical">
+    tools:context=".brofile">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -26,15 +22,15 @@
             android:orientation="horizontal">
 
             <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/imgpro"
-                android:layout_width="275dp"
-                android:layout_height="162dp"
-                android:layout_gravity="center"
-                android:foregroundGravity="center"
-                android:visibility="visible"
-                app:civ_border_color="#FF000000"
-                app:civ_border_width="2dp" />
-        </LinearLayout>
+        android:id="@+id/imgpro"
+        android:layout_width="275dp"
+        android:layout_height="162dp"
+        android:layout_gravity="center"
+        android:foregroundGravity="center"
+        android:visibility="visible"
+        app:civ_border_color="#FF000000"
+        app:civ_border_width="2dp" />
+    </LinearLayout>
 
         <TextView
             android:id="@+id/name"
@@ -62,11 +58,35 @@
             android:gravity="center"
             android:orientation="horizontal">
 
-            <ImageButton
-                android:id="@+id/imageButton"
+
+
+            <ImageView
+                android:layout_marginRight="2dp"
+                android:id="@+id/message"
+                android:layout_width="75dp"
+                android:layout_height="52dp"
+                app:srcCompat="@drawable/mess"
+                tools:ignore="VectorDrawableCompat" />
+
+            <TextView
+                android:layout_marginRight="5dp"
+                android:id="@+id/mess"
+                android:text="المراسلة"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                app:srcCompat="@drawable/ic_star_black_24dp"
+                android:gravity="center"
+                android:textColor="#000"
+                android:textSize="24sp" />
+
+
+
+            <ImageView
+                android:layout_marginLeft="2dp"
+                android:id="@+id/imageButton"
+                android:layout_width="49dp"
+                android:layout_height="52dp"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/star"
                 tools:ignore="VectorDrawableCompat" />
 
             <TextView
@@ -77,14 +97,17 @@
                 android:textColor="@color/colorAccent"
                 android:textSize="24sp" />
 
+
             <TextView
                 android:id="@+id/txt"
-                android:layout_width="wrap_content"
+                android:layout_width="62dp"
                 android:layout_height="match_parent"
+                android:layout_marginLeft="2dp"
                 android:gravity="center"
                 android:text="@string/rating"
-                android:textColor="@android:color/background_dark"
-                android:textSize="18sp" />
+                android:textColor="#000"
+                android:textSize="24sp" />
+
 
 
         </LinearLayout>
@@ -93,12 +116,7 @@
             android:layout_width="match_parent"
             android:layout_height="200dp" />
 
-        <ImageView
-            android:id="@+id/message"
-            android:layout_width="75dp"
-            android:layout_height="52dp"
-            app:srcCompat="@drawable/ic_message_black_24dp"
-            tools:ignore="VectorDrawableCompat" />
+
 
     </LinearLayout>
 
