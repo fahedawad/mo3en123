@@ -1,10 +1,10 @@
-#Thu Mar 28 01:38:13 EET 2019
-path.2=classes2.dex
-path.1=classes.dex
+#Sun Apr 07 17:04:29 EEST 2019
+path.2=classes3.dex
+path.1=classes2.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=H\:\\mosab projects\\mo3en\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
-base.1=H\:\\mosab projects\\mo3en\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
-base.0=H\:\\mosab projects\\mo3en\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+base.2=/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/dex/debug/mergeDexDebug/out
+base.1=/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/dex/debug/mergeDexDebug/out
+base.0=/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/dex/debug/mergeDexDebug/out

@@ -5,8 +5,8 @@
         android:checkableBehavior="single">
 
         <item
-            android:id="@+id/sign_out"
-            android:title="Log out"></item>
+            android:id="@+id/about"
+            android:title="سياسة الإستخدام"></item>
 
     </group>
 </menu>

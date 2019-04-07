@@ -9,7 +9,7 @@
     android:paddingRight="60dp"
     android:clipToPadding="false">
 
-    <View
+    <ImageView
         android:id="@+id/avatar"
         android:layout_alignParentLeft="true"
         android:scaleType="centerInside"
@@ -48,5 +48,6 @@
         android:layout_alignTop="@+id/avatar"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="-2dp"
-        tools:srcCompat="@tools:sample/avatars" />
+        app:srcCompat="@drawable/image" />
+
 </RelativeLayout>

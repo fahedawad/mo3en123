@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".brofile">
+    tools:context="com.biscuit.mo3en.brofile">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -13,7 +13,8 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:gravity="center"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="@drawable/mainback">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -28,7 +29,7 @@
         android:layout_gravity="center"
         android:foregroundGravity="center"
         android:visibility="visible"
-        app:civ_border_color="#FF000000"
+        app:civ_border_color="#fff"
         app:civ_border_width="2dp" />
     </LinearLayout>
 
@@ -39,7 +40,7 @@
             android:gravity="center"
             android:paddingBottom="5dp"
             android:text="@string/name"
-            android:textColor="@android:color/background_dark"
+            android:textColor="#fff"
             android:textSize="30sp" />
 
         <TextView
@@ -49,8 +50,9 @@
             android:gravity="center"
             android:paddingBottom="5dp"
             android:text="@string/bio"
-            android:textColor="@android:color/background_dark"
-            android:textSize="30sp" />
+            android:textColor="#fff"
+            android:textSize="30sp"
+            android:layout_marginBottom="20dp"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -69,13 +71,13 @@
                 tools:ignore="VectorDrawableCompat" />
 
             <TextView
-                android:layout_marginRight="5dp"
                 android:id="@+id/mess"
-                android:text="المراسلة"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
                 android:gravity="center"
-                android:textColor="#000"
+                android:text="المراسلة"
+                android:textColor="#fff"
                 android:textSize="24sp" />
 
 
@@ -105,7 +107,7 @@
                 android:layout_marginLeft="2dp"
                 android:gravity="center"
                 android:text="@string/rating"
-                android:textColor="#000"
+                android:textColor="#fff"
                 android:textSize="24sp" />
 
 

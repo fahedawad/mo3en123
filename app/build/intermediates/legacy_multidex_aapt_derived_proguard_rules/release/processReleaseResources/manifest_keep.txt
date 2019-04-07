@@ -1,0 +1,4 @@
+# Referenced at H:\mosab projects\mo3en\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:20
+-keep class android.support.multidex.MultiDexApplication { <init>(); }
+# Referenced at H:\mosab projects\mo3en\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:20
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }

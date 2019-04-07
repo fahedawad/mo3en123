@@ -4,22 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/common_google_signin_btn_text_dark_default"
-    tools:context=".splash">
+    tools:context="com.biscuit.mo3en.splash"
+    android:background="@drawable/gradiantback"
+    android:layout_gravity="center"
+    android:gravity="center">
 
     <ImageView
-        android:id="@+id/img"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="0dp"
-        android:layout_marginLeft="0dp"
-        android:layout_marginTop="216dp"
-        android:layout_marginBottom="185dp"
-        android:scaleType="fitXY"
-        app:srcCompat="@drawable/logo" />
-
+        android:id="@+id/imageView2"
+        android:layout_width="135dp"
+        android:layout_height="135dp"
+        app:srcCompat="@drawable/logosplash" />
 </RelativeLayout>

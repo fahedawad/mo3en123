@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\mosab projects\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\ef2bce1bbd76a0f2f344ec9561580b77\\res\\values-v23\\values-v23.xml",
+                    "source": "/Users/gl-zarqa-imac-7/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6f24ce7048ebe3a59161b63d5b860925/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\9f16810510e3b62c7e64159e301f4231\\res\\values-v23\\values-v23.xml",
+                    "source": "/Users/gl-zarqa-imac-7/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/881611c4c6ebc239ed8b871ce6c199ca/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

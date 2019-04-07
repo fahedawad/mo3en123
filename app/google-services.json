@@ -8,17 +8,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:88043244445:android:d499df2034551b1f",
+        "mobilesdk_app_id": "1:88043244445:android:82a048266a5649ed",
         "android_client_info": {
-          "package_name": "com.estisharat.estisharatv1"
+          "package_name": "com.biscuit.mo3en"
         }
       },
       "oauth_client": [
         {
-          "client_id": "88043244445-7k7v65jpt9c2qs31a7jkqjgj62f2ls66.apps.googleusercontent.com",
+          "client_id": "88043244445-c4bk9723bmi8ckjqsm3ujaesbl9j4j6n.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.estisharat.estisharatv1",
+            "package_name": "com.biscuit.mo3en",
             "certificate_hash": "a49c69d7f2f2c66751cfe6c630caf916f5a7ca07"
           }
         },
