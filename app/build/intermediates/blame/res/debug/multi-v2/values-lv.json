@@ -4,24 +4,7 @@
             "outputFile": "/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
             "map": [
                 {
-                    "source": "/Users/gl-zarqa-imac-7/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3aeea0094bb4c5f752791e70c6c269d4/res/values-lv/values-lv.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "48",
-                        "startColumns": "4",
-                        "startOffsets": "5869",
-                        "endColumns": "100",
-                        "endOffsets": "5965"
-                    }
-                },
-                {
-                    "source": "/Users/gl-zarqa-imac-7/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/eda9c2f9472093d7e65cdbfb985780b3/res/values-lv/values.xml",
+                    "source": "/Users/gl-zarqa-imac-7/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/66ca9c2623dd882bcdc18dafb7e91619/res/values-lv/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/gl-zarqa-imac-7/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6f24ce7048ebe3a59161b63d5b860925/res/values-lv/values-lv.xml",
+                    "source": "/Users/gl-zarqa-imac-7/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f4afd452496a40a1ecac75276d4d9d17/res/values-lv/values-lv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/gl-zarqa-imac-7/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ac0f8f8612274b4c00061ab64ed545cd/res/values-lv/values.xml",
+                    "source": "/Users/gl-zarqa-imac-7/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/002e6b4cde6ba78cb23c1f28020c5c21/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "5869",
+                        "endColumns": "100",
+                        "endOffsets": "5965"
+                    }
+                },
+                {
+                    "source": "/Users/gl-zarqa-imac-7/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4f0c273eacbcba78f23022db7dffd842/res/values-lv/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

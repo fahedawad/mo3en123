@@ -9,13 +9,14 @@
         android:hardwareAccelerated="false"
         android:icon="@drawable/logosplash"
         android:label="@string/app_name"
-        android:screenOrientation="portrait"
         android:largeHeap="true"
         android:roundIcon="@drawable/logosplash"
+        android:screenOrientation="portrait"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".photo"></activity>
-        <activity android:name=".about_dialog" />
+        <activity android:name=".about"></activity>
+        <activity android:name=".photo" />
+        <activity android:name=".termofuse" />
         <activity android:name=".rating" />
         <activity android:name=".message_activity" />
         <activity android:name=".brofile" />

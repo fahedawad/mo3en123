@@ -23,12 +23,13 @@
 
             <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/agentimg"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
                 android:layout_gravity="center"
                 android:foregroundGravity="center"
                 android:visibility="visible"
                 app:civ_border_color="#FF000000"
+                android:background="@color/colorAccent"
                 app:civ_border_width="2dp" />
 
             <TextView

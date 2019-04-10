@@ -2,6 +2,7 @@ package com.biscuit.mo3en;
 
 import android.content.Context;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
@@ -102,8 +103,26 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
         switch (menuItem.getItemId()){
+            case R.id.termofuse:
+                startActivity(new Intent(MainActivity.this, termofuse.class));
+                break;
+            case R.id.privacy:
+                String url = "https://www.termsfeed.com/privacy-policy/c5fb9e45c439353e0c021ff1ae401db4";
+                Intent i = new Intent(Intent.ACTION_VIEW);
+                i.setData(Uri.parse(url));
+                startActivity(i);
+                break;
             case R.id.about:
-                startActivity(new Intent(MainActivity.this,about_dialog.class));
+                startActivity(new Intent(MainActivity.this,about.class));
+                break;
+
+            case R.id.facebook:
+                String urlf = "https://www.facebook.com/معين-للاستشارات-2266092020313370";
+                Intent inte = new Intent(Intent.ACTION_VIEW);
+                inte.setData(Uri.parse(urlf));
+                startActivity(inte);
+                break;
+
         }
         return true;
     }

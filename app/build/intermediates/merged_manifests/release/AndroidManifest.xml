@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.biscuit.mo3en"
-    android:versionCode="6"
-    android:versionName="1.5" >
+    android:versionCode="7"
+    android:versionName="1.6" >
 
     <uses-sdk
         android:minSdkVersion="15"
@@ -26,10 +26,12 @@
         android:label="@string/app_name"
         android:largeHeap="true"
         android:roundIcon="@drawable/logosplash"
+        android:screenOrientation="portrait"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.biscuit.mo3en.about" />
         <activity android:name="com.biscuit.mo3en.photo" />
-        <activity android:name="com.biscuit.mo3en.about_dialog" />
+        <activity android:name="com.biscuit.mo3en.termofuse" />
         <activity android:name="com.biscuit.mo3en.rating" />
         <activity android:name="com.biscuit.mo3en.message_activity" />
         <activity android:name="com.biscuit.mo3en.brofile" />

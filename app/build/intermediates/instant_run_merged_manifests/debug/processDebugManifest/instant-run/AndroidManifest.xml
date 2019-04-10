@@ -31,8 +31,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.biscuit.mo3en.about" />
         <activity android:name="com.biscuit.mo3en.photo" />
-        <activity android:name="com.biscuit.mo3en.about_dialog" />
+        <activity android:name="com.biscuit.mo3en.termofuse" />
         <activity android:name="com.biscuit.mo3en.rating" />
         <activity android:name="com.biscuit.mo3en.message_activity" />
         <activity android:name="com.biscuit.mo3en.brofile" />

@@ -30,9 +30,11 @@
         android:roundIcon="@drawable/logosplash"
         android:screenOrientation="portrait"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.biscuit.mo3en.about" />
         <activity android:name="com.biscuit.mo3en.photo" />
-        <activity android:name="com.biscuit.mo3en.about_dialog" />
+        <activity android:name="com.biscuit.mo3en.termofuse" />
         <activity android:name="com.biscuit.mo3en.rating" />
         <activity android:name="com.biscuit.mo3en.message_activity" />
         <activity android:name="com.biscuit.mo3en.brofile" />
@@ -190,6 +192,11 @@
                 <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
             </intent-filter>
         </receiver>
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.biscuit.mo3en.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

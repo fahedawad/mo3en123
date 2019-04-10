@@ -51,7 +51,8 @@ public class message_activity extends AppCompatActivity {
     static Bitmap bitmap1;
     Sharedprefrens1 sharedprefrens1;
     ProgressBar load;
-    ImageButton send,attach;
+    ImageButton send;
+    ImageView attach;
     ImageView home;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

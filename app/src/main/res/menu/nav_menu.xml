@@ -3,10 +3,18 @@
     <group
         android:id="@+id/group_menu"
         android:checkableBehavior="single">
-
+        <item
+            android:id="@+id/termofuse"
+            android:title="سياسات الإستخدام"></item>
+        <item
+            android:id="@+id/privacy"
+            android:title="سياسة الخصوصية"></item>
         <item
             android:id="@+id/about"
-            android:title="سياسة الإستخدام"></item>
-
+            android:title="من نحن"></item>
+        <item
+            android:id="@+id/facebook"
+            android:title="تابعنا على الفيسبوك"
+            android:icon="@drawable/facebook11"></item>
     </group>
 </menu>

@@ -1070,6 +1070,10 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable about
+drawable about1
+drawable about2
+drawable about3
+drawable attach
 drawable avd_hide_password
 drawable avd_show_password
 drawable baby
@@ -1134,6 +1138,7 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable doctor
 drawable editbox
+drawable facebook11
 drawable family
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
@@ -1191,6 +1196,7 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable psychologue
 drawable responsive
+drawable send
 drawable smartphone
 drawable social
 drawable social_24dp
@@ -1307,6 +1313,7 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id facebook
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1332,6 +1339,9 @@ id imageButton
 id imageView
 id imageView2
 id imageView3
+id imageView4
+id imageView5
+id imageView6
 id img
 id img1
 id img2
@@ -1391,6 +1401,7 @@ id parentPanel
 id parent_matrix
 id percent
 id pin
+id privacy
 id progressBar
 id progress_bar
 id progress_circular
@@ -1456,12 +1467,14 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tech
+id termofuse
 id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
+id textView11
 id textView2
 id textView3
 id textView4
@@ -1469,6 +1482,7 @@ id textView5
 id textView6
 id textView7
 id textView8
+id textView9
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1550,7 +1564,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_about_dialog
+layout activity_about
 layout activity_action
 layout activity_adapter
 layout activity_auth
@@ -1560,6 +1574,7 @@ layout activity_message
 layout activity_photo
 layout activity_rating
 layout activity_splash
+layout activity_termofuse
 layout agent
 layout com_facebook_activity_layout
 layout com_facebook_device_auth_dialog_fragment
