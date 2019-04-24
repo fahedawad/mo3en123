@@ -1,79 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="23"
-    build-mode="COLD"
+    api-level="24"
+    build-mode="FULL"
     density="xxhdpi"
     format="10"
-    plugin-version="3.3.2"
-    timestamp="1554902656309"
-    token="2050428686769001646"
-    verifier="COLD_SWAP_REQUESTED" >
+    plugin-version="3.4.0"
+    timestamp="1555779600276"
+    token="-811667843956180214"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="12029" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="10543" />
     <task
         name="verifier"
-        duration="0" />
+        duration="13098" />
 
     <artifact
-        location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+        location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="H:\mosab projects\mo3en\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1554902540098"
+        timestamp="1555779600276"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1554902656309"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            location="H:\mosab projects\mo3en\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

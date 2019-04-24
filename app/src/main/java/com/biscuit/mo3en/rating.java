@@ -23,9 +23,6 @@ public class rating extends Dialog {
         this.context1 = context;
         this.id=id;
     }
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,10 +44,8 @@ public class rating extends Dialog {
                         db.child(id).child("rating_count").setValue((rating_count+1)+"");
                         db.child(id).child("rating").setValue((new_sum_rating/(rating_count+1)+""));
                     }
-
                     @Override
                     public void onCancelled(@NonNull DatabaseError databaseError) {
-
                     }
                 });
                 rating.this.cancel();

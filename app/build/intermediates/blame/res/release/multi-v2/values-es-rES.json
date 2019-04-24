@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-es-rES/values-es-rES.xml",
+            "outputFile": "G:\\mosab projects\\mo3en\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
             "map": [
                 {
-                    "source": "/Users/gl-zarqa-imac-7/.gradle/caches/transforms-1/files-1.1/facebook-login-4.40.0.aar/02d041efc7284f6d0547e596226c0e14/res/values-es-rES/values-es-rES.xml",
+                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.40.0.aar\\50aad003d4b63f84d78b027b49cce12e\\res\\values-es-rES\\values-es-rES.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

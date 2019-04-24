@@ -54,8 +54,13 @@ public class brofile extends AppCompatActivity {
         db.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                try{
                 String rat = dataSnapshot.child("rating").getValue(String.class).substring(0,3);
-                 rating.setText(rat);
+                 rating.setText(rat);}
+                catch (Exception e ){
+                    String rat = dataSnapshot.child("rating").getValue(String.class);
+                    rating.setText(rat);
+                }
             }
 
             @Override

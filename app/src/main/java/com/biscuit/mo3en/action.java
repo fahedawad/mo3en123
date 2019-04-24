@@ -79,6 +79,7 @@ public class action extends AppCompatActivity {
             img1.setImageResource(R.drawable.family);
             img2.setImageResource(R.drawable.social_project);
             img3.setImageResource(R.drawable.community);
+            cardView.setVisibility(View.GONE);
         }
         if(s.equals("boldgreen")){
             title.setText("إختر القسم المناسب:");
@@ -98,7 +99,7 @@ public class action extends AppCompatActivity {
             txt2.setText(R.string.learningdifficulties);
             txt3.setText(R.string.Twjihee);
             txt1.setText(R.string.psychological_guidance);
-            txt4.setTag("University");
+            txt4.setTag("university");
             txt2.setTag("learning difficulties");
             txt3.setTag("Twjihee");
             txt1.setTag("psychological guidance");

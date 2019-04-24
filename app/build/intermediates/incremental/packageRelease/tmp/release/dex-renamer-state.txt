@@ -1,7 +1,7 @@
-#Wed Apr 10 17:21:35 EEST 2019
-base.0=/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/dex/release/mergeDexRelease/out
+#Sat Apr 13 10:18:22 EEST 2019
+base.0=G\:\\mosab projects\\mo3en\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
 path.1=classes2.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Volumes/CPBA_X64FRE/mosab projects/mo3en/app/build/intermediates/dex/release/mergeDexRelease/out
+base.1=G\:\\mosab projects\\mo3en\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out

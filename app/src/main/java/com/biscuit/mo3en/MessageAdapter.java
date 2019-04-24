@@ -79,7 +79,6 @@ public class MessageAdapter extends BaseAdapter {
                 convertView.setTag(holder);
                 holder.messageBody.setText(message.getText());
                 holder.cardView.setVisibility(View.VISIBLE);
-
             }
             else {
                 holder.cardView = convertView.findViewById(R.id.card);

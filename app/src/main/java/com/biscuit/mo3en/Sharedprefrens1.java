@@ -47,7 +47,6 @@ public class Sharedprefrens1 {
             saveFavorite(context, favorites);
         }
     }
-
     public ArrayList<Time> getFavorites(Context context) {
         SharedPreferences settings;
         List<Time> favorites;
