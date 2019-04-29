@@ -4,17 +4,7 @@
             "outputFile": "H:\\mosab projects\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-2\\files-2.1\\f05057744897780875712fe846cc832f\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-2\\files-2.1\\3afcee464450fc88dd14effb505caa66\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-2\\files-2.1\\e4dd2506009c2aef9332d3a3cc511b76\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-2\\files-2.1\\b4356bc217cb3ed1cb882ea97d25ac23\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]

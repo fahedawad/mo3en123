@@ -1,716 +1,716 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:2:1-57:12
-MERGED from [com.android.support:multidex:1.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/4b29f9a8960f38baa02dfb9339470504/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:design:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18fd9ae6180723981ab12c2579656919/AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/82d8c086e8fbf6d100f37af6f057dcf3/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e5443cb271ff6da8898cd5b19a4a88bc/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0bac92c888c5e331f5ff4b7c7d2d4ee3/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:21:1-37:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/d8b7795d3d45ac271b1e37c1ffbdb673/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/cebfc7ec5deee2e95d32d84b8d4207e4/AndroidManifest.xml:17:1-22:12
-MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/9ea814aefa2240cd85376c9b2177a8d3/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/510a567dd7e953b0af32c8c148a92fb4/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:2:1-24:12
-MERGED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:15:1-36:12
-MERGED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:15:1-37:12
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e9fea1104caf481acc64da00c08b602/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/a01d5737e06b33c50cfdc1b7cea50ee2/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.firebase:firebase-core:16.0.8] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/900598385c36a8c049b244e4a91fd541/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-analytics:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ad3370af07423dc25ac883b045b5d892/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:17:1-59:12
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/616ceeffb3cfe0276d8adb4973c0410d/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/14019d4e935d1a69fb7c5f07ddefd4ed/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/405f3039f28cfadca0f3a3482f09ed0d/AndroidManifest.xml:2:1-19:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/994bc6f55b80a97aecce2071aef930e5/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8b9e81949e7e1ee81612bd833a04f9ac/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/86bca98e3174642b889c79ab7a0358b6/AndroidManifest.xml:17:1-30:12
-MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ff6b99000503462c7ba4907810e9b940/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/37fa4992538cbcc556569b9f2e6bb255/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18d54bffb8c2f60d606a6258121e7006/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f66c96ab673d2708d680c604a31338d0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e64036baaaa49e2cdd41003619b9e98c/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/d16b7103407f26d5da98239f79154265/AndroidManifest.xml:17:1-22:12
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5679f8d2f072865661089992ba59aaf5/AndroidManifest.xml:2:1-14:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/42785f83514018e2144ef1e26ddb706b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8467159a968063aad84ae45a8e18a1c0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5ae6f86bc2344603a509e654fa6d7153/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/cf4673aed82e3c6ac49470aabd2d74d2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/be321fa2053b26af547d4ec30ab5d28a/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e22aedf442a032722d7c0260a8d0963c/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/84ec753fbe14b0fe5225225163e3c326/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/fb88b52407990227ec2f3b7b51c1516f/AndroidManifest.xml:21:1-35:12
-MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:21:1-53:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/324e4a57d39d90606d469ba4d4e6f39c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/39b7d30571ef326d338c63f72bc36731/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/4ebc0ec48af3b086763a4021d9155f7b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/15f6077102a19c5b5224d531bc4a9691/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/223c6aefdbb41f647b2b17f18f0d6adf/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/88715341b9ddca03bd68dfa6faaa0026/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/26dad41f22cb714b9bafc27cf976e4fc/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/438873660b017b46442f155a8bf1ef3e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ebedb75e062cc8fcc8bfa5b11b595531/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/a652a6d41b4b36859cae38b794a28119/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ba25ce67287d9d871b9c8077421aa43f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f66cd47cb9e5b01c32340421b340b6eb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customtabs:27.0.2] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f166116259530506ff112bf6371f2375/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/40b13c504efc882f2951595ca246a664/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0f38e1551c4116173bc84619ff57bdb4/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e5da86faeedaa6bc49a46b00af8ef877/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/9dfeed9fdc054fa4862bf50763d9cf6e/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9b3fc79e107b72c2d8e6a92d8d01968/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/573f0c7540a7d162c0df1e27b2ea6a9a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/706429754573521e38b24119539d3e6a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5ea926fb82f232c0d9b4db5505ff4f2c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/94cda93c564c0a10190f32c53488d0cb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/b5e9cb3529eed7826082e3690c910595/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/71990e63043b51b1cf70a822be1dfb2c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5b74d604313b206717e4a0a8106d9c35/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/a350d09274d5f8f87c7b0078ca0eaaf4/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/b8c75e63ddb26d8d634cde7ba39a62f2/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1df362433a64cebb1068253daafcdd67/AndroidManifest.xml:2:1-11:12
-MERGED from [io.grpc:grpc-android:1.16.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/cad4b7a44ac7f6af861028db83ef8b0c/AndroidManifest.xml:2:1-13:12
-INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:2:1-57:12
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ea9859ee85561ad4637b3bdc60a0a65f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\2c0ec5201d236b9125ce3bb693d95405\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d413163262bb5e6882a6476ba4c8831c\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\808ac8f355f49a94904ba8b5ed078d59\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a6cb385b1f8139577293b14bce79c355\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\b4356bc217cb3ed1cb882ea97d25ac23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\4a189ef16a641829f155bf86edb01976\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\4b4db3859546235b152781255f071c56\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\00bcc6f8fe23171adf948ff92f520c7c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27b68af883f937a26f70cb65f2d6a669\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\210626d33eddc80b15fb5334317af83e\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\51baad3f2cdb30ac43bd7a73b432f16b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d09489c441b000cd800c2aeed65c7607\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0aab7e97dc0acb4069bd9457a7c7a0a4\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ab28663414e08af6ad5e131f6e68d3b9\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c0f8e81817ec1d2544e91cffcb98608c\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\90b9dc38f651b601215b17841a931555\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\31efd9efdb258a58703397982c70d9ee\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f7f6a013e3942834d371c6732a3e4dee\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\b6c3c18a320b02ae45b25a51190880a5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\85dc1480bfb412245f3542d01f3bef47\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\af6140226dc8787385cdd842a5d61ed0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7fad40a8c89ec2e5c857ffd1f3bc28b3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e00a639a145beb75f249fceb593d3832\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\9744f9d3f54e9618d0a1d91b125e3f3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f3a4510851c82e29533a52a0759b502a\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c876a2c8d407e06a0f4014adfbf9d3da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7650d67fd62dcb946242d17c042755c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\91fbc77e4112d629d233b7696ec7b023\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5d874da0492bc31d88d3aa459e42b2ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\8f99d6df2cf75a8a21937e48a6984c12\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e556b6de03d07a0a38b278fd7b3fa62a\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\efc1990e51ec65f29dd69e97089dc4e8\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\923cc5746f8bfa57a846a503bb11efd3\AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d4153d734d3426e2195f0df5e2803922\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5ea9f08451e0a64215cf720187caccaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e4dd2506009c2aef9332d3a3cc511b76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f18e7c10d7a8caca29ad04c80d2de666\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a4ddab60af49300690a3c57366a35164\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\489559afdd7f1f0be2bd0d4959521a26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3adb0a3b68d75bd2fbd4de501171ba01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\58e04f2deff859269e99fc9f6b398efe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\1c60bad9a0b69f67202384686d18c1f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e2d7f43b5e5a70e72d5974d5ccc21120\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\aba6089bbbcd7f56d588fe51f8b63a23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\49cfcbffecbeb0948639a6f44ee8b849\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\9c282706c451628fa6a8fa992673e5d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a39fec65cd923bc25e1244d1841e2370\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\8b2d8deff8de098e0d43a418d49bbaed\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\72e964ccbcda6334f23bffc99231707a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\77dcb52ce3bc23b9b3ac39bedf9f190f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\97f08248603742b04e28df118f49c32e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\46463165d59129fb749d82fe78300c68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\56c7ea00fea2003ebf9e85e437ed5afd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7f77133ea8ac23372d37efab518104cd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\784f36f2addd5e5a6f30638fb68eca51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f508795bb0636e9063ea1d9e7f9dce88\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\6e3439afa2567b0d75b1856998996da0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\794696dbfc2604b0a2c3bfef1f67e902\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e34ffe48dfa2bc54d4788d6f1361a933\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7d7169703a9077c4037cda68f7cf5e41\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5cd17139b70f3eeb10003158491ffb6a\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\73b77b5e9d31543eb5ada9d497f4c2e3\AndroidManifest.xml:2:1-13:12
+INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-57:12
 	package
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:3:5-32
-		INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
-		INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:2:1-57:12
-		INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
+		INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:2:1-57:12
-		INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
+		INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:14:5-67
-MERGED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:14:5-67
-MERGED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:27:5-67
-MERGED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:27:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/86bca98e3174642b889c79ab7a0358b6/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/86bca98e3174642b889c79ab7a0358b6/AndroidManifest.xml:23:5-67
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f7f6a013e3942834d371c6732a3e4dee\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f7f6a013e3942834d371c6732a3e4dee\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:7:5-55:19
-MERGED from [com.android.support:design:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18fd9ae6180723981ab12c2579656919/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18fd9ae6180723981ab12c2579656919/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/82d8c086e8fbf6d100f37af6f057dcf3/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/82d8c086e8fbf6d100f37af6f057dcf3/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e5443cb271ff6da8898cd5b19a4a88bc/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e5443cb271ff6da8898cd5b19a4a88bc/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0bac92c888c5e331f5ff4b7c7d2d4ee3/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0bac92c888c5e331f5ff4b7c7d2d4ee3/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:28:5-35:19
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:28:5-35:19
-MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/9ea814aefa2240cd85376c9b2177a8d3/AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/9ea814aefa2240cd85376c9b2177a8d3/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/510a567dd7e953b0af32c8c148a92fb4/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/510a567dd7e953b0af32c8c148a92fb4/AndroidManifest.xml:9:5-20
-MERGED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:16:5-22:19
-MERGED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:16:5-22:19
-MERGED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:28:5-34:19
-MERGED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:28:5-34:19
-MERGED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:29:5-35:19
-MERGED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:29:5-35:19
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/a01d5737e06b33c50cfdc1b7cea50ee2/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/a01d5737e06b33c50cfdc1b7cea50ee2/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-core:16.0.8] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/900598385c36a8c049b244e4a91fd541/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-core:16.0.8] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/900598385c36a8c049b244e4a91fd541/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ad3370af07423dc25ac883b045b5d892/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ad3370af07423dc25ac883b045b5d892/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/616ceeffb3cfe0276d8adb4973c0410d/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/616ceeffb3cfe0276d8adb4973c0410d/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/14019d4e935d1a69fb7c5f07ddefd4ed/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/14019d4e935d1a69fb7c5f07ddefd4ed/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/405f3039f28cfadca0f3a3482f09ed0d/AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/405f3039f28cfadca0f3a3482f09ed0d/AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/994bc6f55b80a97aecce2071aef930e5/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/994bc6f55b80a97aecce2071aef930e5/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8b9e81949e7e1ee81612bd833a04f9ac/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8b9e81949e7e1ee81612bd833a04f9ac/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/86bca98e3174642b889c79ab7a0358b6/AndroidManifest.xml:27:5-28:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/86bca98e3174642b889c79ab7a0358b6/AndroidManifest.xml:27:5-28:19
-MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ff6b99000503462c7ba4907810e9b940/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ff6b99000503462c7ba4907810e9b940/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/37fa4992538cbcc556569b9f2e6bb255/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/37fa4992538cbcc556569b9f2e6bb255/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18d54bffb8c2f60d606a6258121e7006/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18d54bffb8c2f60d606a6258121e7006/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f66c96ab673d2708d680c604a31338d0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f66c96ab673d2708d680c604a31338d0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e64036baaaa49e2cdd41003619b9e98c/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e64036baaaa49e2cdd41003619b9e98c/AndroidManifest.xml:22:5-26:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5679f8d2f072865661089992ba59aaf5/AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5679f8d2f072865661089992ba59aaf5/AndroidManifest.xml:7:5-12:19
-MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/be321fa2053b26af547d4ec30ab5d28a/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/be321fa2053b26af547d4ec30ab5d28a/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e22aedf442a032722d7c0260a8d0963c/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e22aedf442a032722d7c0260a8d0963c/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/84ec753fbe14b0fe5225225163e3c326/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/84ec753fbe14b0fe5225225163e3c326/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/fb88b52407990227ec2f3b7b51c1516f/AndroidManifest.xml:28:5-33:19
-MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/fb88b52407990227ec2f3b7b51c1516f/AndroidManifest.xml:28:5-33:19
-MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:28:5-51:19
-MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:28:5-51:19
-MERGED from [com.android.support:support-compat:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/40b13c504efc882f2951595ca246a664/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/40b13c504efc882f2951595ca246a664/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0f38e1551c4116173bc84619ff57bdb4/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0f38e1551c4116173bc84619ff57bdb4/AndroidManifest.xml:22:5-23:19
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:7:5-55:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\2c0ec5201d236b9125ce3bb693d95405\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\2c0ec5201d236b9125ce3bb693d95405\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d413163262bb5e6882a6476ba4c8831c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d413163262bb5e6882a6476ba4c8831c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\808ac8f355f49a94904ba8b5ed078d59\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\808ac8f355f49a94904ba8b5ed078d59\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a6cb385b1f8139577293b14bce79c355\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a6cb385b1f8139577293b14bce79c355\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:28:5-35:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\4b4db3859546235b152781255f071c56\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\4b4db3859546235b152781255f071c56\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\00bcc6f8fe23171adf948ff92f520c7c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\00bcc6f8fe23171adf948ff92f520c7c\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\210626d33eddc80b15fb5334317af83e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\210626d33eddc80b15fb5334317af83e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\51baad3f2cdb30ac43bd7a73b432f16b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\51baad3f2cdb30ac43bd7a73b432f16b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d09489c441b000cd800c2aeed65c7607\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d09489c441b000cd800c2aeed65c7607\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0aab7e97dc0acb4069bd9457a7c7a0a4\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0aab7e97dc0acb4069bd9457a7c7a0a4\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ab28663414e08af6ad5e131f6e68d3b9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ab28663414e08af6ad5e131f6e68d3b9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c0f8e81817ec1d2544e91cffcb98608c\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c0f8e81817ec1d2544e91cffcb98608c\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\90b9dc38f651b601215b17841a931555\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\90b9dc38f651b601215b17841a931555\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\31efd9efdb258a58703397982c70d9ee\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\31efd9efdb258a58703397982c70d9ee\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f7f6a013e3942834d371c6732a3e4dee\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f7f6a013e3942834d371c6732a3e4dee\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\b6c3c18a320b02ae45b25a51190880a5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\b6c3c18a320b02ae45b25a51190880a5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\85dc1480bfb412245f3542d01f3bef47\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\85dc1480bfb412245f3542d01f3bef47\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\af6140226dc8787385cdd842a5d61ed0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\af6140226dc8787385cdd842a5d61ed0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7fad40a8c89ec2e5c857ffd1f3bc28b3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7fad40a8c89ec2e5c857ffd1f3bc28b3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e00a639a145beb75f249fceb593d3832\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e00a639a145beb75f249fceb593d3832\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f3a4510851c82e29533a52a0759b502a\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f3a4510851c82e29533a52a0759b502a\AndroidManifest.xml:7:5-12:19
+MERGED from [com.facebook.android:facebook-places:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\8f99d6df2cf75a8a21937e48a6984c12\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\8f99d6df2cf75a8a21937e48a6984c12\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e556b6de03d07a0a38b278fd7b3fa62a\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e556b6de03d07a0a38b278fd7b3fa62a\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\efc1990e51ec65f29dd69e97089dc4e8\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\efc1990e51ec65f29dd69e97089dc4e8\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\923cc5746f8bfa57a846a503bb11efd3\AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\923cc5746f8bfa57a846a503bb11efd3\AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:28:5-51:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a39fec65cd923bc25e1244d1841e2370\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a39fec65cd923bc25e1244d1841e2370\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\8b2d8deff8de098e0d43a418d49bbaed\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\8b2d8deff8de098e0d43a418d49bbaed\AndroidManifest.xml:22:5-23:19
 	android:screenOrientation
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:14:9-45
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:14:9-45
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/40b13c504efc882f2951595ca246a664/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a39fec65cd923bc25e1244d1841e2370\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:11:9-41
 	android:hardwareAccelerated
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:9:9-44
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:9:9-44
 	android:roundIcon
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:13:9-49
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:13:9-49
 	android:largeHeap
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:12:9-33
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:12:9-33
 	android:icon
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:10:9-44
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:10:9-44
 	android:allowBackup
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:16:9-40
 activity#com.biscuit.mo3en.about
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:17:9-52
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:17:9-52
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:17:19-40
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:17:19-40
 activity#com.biscuit.mo3en.photo
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:18:9-43
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:18:9-43
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:18:19-40
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:18:19-40
 activity#com.biscuit.mo3en.termofuse
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:19:9-47
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:19:9-47
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:19:19-44
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:19:19-44
 activity#com.biscuit.mo3en.rating
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:20:9-44
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:20:9-44
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:20:19-41
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:20:19-41
 activity#com.biscuit.mo3en.message_activity
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:21:9-54
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:21:9-54
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:21:19-51
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:21:19-51
 activity#com.biscuit.mo3en.brofile
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:22:9-45
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:22:9-45
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:22:19-42
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:22:19-42
 activity#com.biscuit.mo3en.splash
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:23:9-29:20
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:23:19-41
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:23:19-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:24:13-28:29
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:25:17-69
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:25:25-66
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:27:17-77
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:27:27-74
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.biscuit.mo3en.action
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:30:9-44
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:30:9-44
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:30:19-41
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:30:19-41
 activity#com.biscuit.mo3en.MainActivity
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:31:9-50
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:31:9-50
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:31:19-47
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:31:19-47
 activity#com.biscuit.mo3en.auth
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:32:9-42
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:32:9-42
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:32:19-39
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:32:19-39
 activity#com.biscuit.mo3en.adapter
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:33:9-45
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:33:9-45
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:33:19-42
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:33:19-42
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:35:9-37:55
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:35:9-37:55
 	android:value
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:37:13-52
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:37:13-52
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:36:13-58
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:36:13-58
 activity#com.facebook.FacebookActivity
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:39:9-42:48
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:29:9-32:66
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:29:9-32:66
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:39:9-42:48
+MERGED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:29:9-32:66
 	android:label
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:42:13-45
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:42:13-45
 	android:configChanges
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:41:13-96
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:41:13-96
 	android:theme
-		ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:32:13-63
+		ADDED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:40:13-57
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:40:13-57
 activity#com.facebook.CustomTabActivity
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:43:9-54:20
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:34:9-67
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:34:9-67
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:43:9-54:20
+MERGED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:34:9-67
+MERGED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:34:9-67
 	android:exported
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:45:13-36
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:45:13-36
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:44:13-58
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:44:13-58
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:46:13-53:29
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:46:13-53:29
 action#android.intent.action.VIEW
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:47:17-69
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:47:17-69
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:47:25-66
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:47:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:49:17-76
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:49:17-76
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:49:27-73
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:49:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:50:17-78
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:50:17-78
 	android:name
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:50:27-75
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:50:27-75
 data
-ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:52:17-75
+ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:52:17-75
 	android:scheme
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml:52:23-72
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml:52:23-72
 uses-sdk
-INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
-INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:multidex:1.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/4b29f9a8960f38baa02dfb9339470504/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/4b29f9a8960f38baa02dfb9339470504/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18fd9ae6180723981ab12c2579656919/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18fd9ae6180723981ab12c2579656919/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/82d8c086e8fbf6d100f37af6f057dcf3/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/82d8c086e8fbf6d100f37af6f057dcf3/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e5443cb271ff6da8898cd5b19a4a88bc/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e5443cb271ff6da8898cd5b19a4a88bc/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0bac92c888c5e331f5ff4b7c7d2d4ee3/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0bac92c888c5e331f5ff4b7c7d2d4ee3/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/d8b7795d3d45ac271b1e37c1ffbdb673/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/d8b7795d3d45ac271b1e37c1ffbdb673/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/cebfc7ec5deee2e95d32d84b8d4207e4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/cebfc7ec5deee2e95d32d84b8d4207e4/AndroidManifest.xml:20:5-44
-MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/9ea814aefa2240cd85376c9b2177a8d3/AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/9ea814aefa2240cd85376c9b2177a8d3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/510a567dd7e953b0af32c8c148a92fb4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/510a567dd7e953b0af32c8c148a92fb4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e9fea1104caf481acc64da00c08b602/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e9fea1104caf481acc64da00c08b602/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/a01d5737e06b33c50cfdc1b7cea50ee2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/a01d5737e06b33c50cfdc1b7cea50ee2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.8] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/900598385c36a8c049b244e4a91fd541/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.8] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/900598385c36a8c049b244e4a91fd541/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ad3370af07423dc25ac883b045b5d892/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ad3370af07423dc25ac883b045b5d892/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/616ceeffb3cfe0276d8adb4973c0410d/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/616ceeffb3cfe0276d8adb4973c0410d/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/14019d4e935d1a69fb7c5f07ddefd4ed/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/14019d4e935d1a69fb7c5f07ddefd4ed/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/405f3039f28cfadca0f3a3482f09ed0d/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/405f3039f28cfadca0f3a3482f09ed0d/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/994bc6f55b80a97aecce2071aef930e5/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/994bc6f55b80a97aecce2071aef930e5/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8b9e81949e7e1ee81612bd833a04f9ac/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8b9e81949e7e1ee81612bd833a04f9ac/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/86bca98e3174642b889c79ab7a0358b6/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/86bca98e3174642b889c79ab7a0358b6/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ff6b99000503462c7ba4907810e9b940/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ff6b99000503462c7ba4907810e9b940/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/37fa4992538cbcc556569b9f2e6bb255/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/37fa4992538cbcc556569b9f2e6bb255/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18d54bffb8c2f60d606a6258121e7006/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18d54bffb8c2f60d606a6258121e7006/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f66c96ab673d2708d680c604a31338d0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f66c96ab673d2708d680c604a31338d0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e64036baaaa49e2cdd41003619b9e98c/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e64036baaaa49e2cdd41003619b9e98c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/d16b7103407f26d5da98239f79154265/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/d16b7103407f26d5da98239f79154265/AndroidManifest.xml:20:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5679f8d2f072865661089992ba59aaf5/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5679f8d2f072865661089992ba59aaf5/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/42785f83514018e2144ef1e26ddb706b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/42785f83514018e2144ef1e26ddb706b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8467159a968063aad84ae45a8e18a1c0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8467159a968063aad84ae45a8e18a1c0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5ae6f86bc2344603a509e654fa6d7153/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5ae6f86bc2344603a509e654fa6d7153/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/cf4673aed82e3c6ac49470aabd2d74d2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/cf4673aed82e3c6ac49470aabd2d74d2/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/be321fa2053b26af547d4ec30ab5d28a/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-places:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/be321fa2053b26af547d4ec30ab5d28a/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e22aedf442a032722d7c0260a8d0963c/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e22aedf442a032722d7c0260a8d0963c/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/84ec753fbe14b0fe5225225163e3c326/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/84ec753fbe14b0fe5225225163e3c326/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/fb88b52407990227ec2f3b7b51c1516f/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-marketing:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/fb88b52407990227ec2f3b7b51c1516f/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/324e4a57d39d90606d469ba4d4e6f39c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/324e4a57d39d90606d469ba4d4e6f39c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/39b7d30571ef326d338c63f72bc36731/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/39b7d30571ef326d338c63f72bc36731/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/4ebc0ec48af3b086763a4021d9155f7b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/4ebc0ec48af3b086763a4021d9155f7b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/15f6077102a19c5b5224d531bc4a9691/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/15f6077102a19c5b5224d531bc4a9691/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/223c6aefdbb41f647b2b17f18f0d6adf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/223c6aefdbb41f647b2b17f18f0d6adf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/88715341b9ddca03bd68dfa6faaa0026/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/88715341b9ddca03bd68dfa6faaa0026/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/26dad41f22cb714b9bafc27cf976e4fc/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/26dad41f22cb714b9bafc27cf976e4fc/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/438873660b017b46442f155a8bf1ef3e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/438873660b017b46442f155a8bf1ef3e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ebedb75e062cc8fcc8bfa5b11b595531/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ebedb75e062cc8fcc8bfa5b11b595531/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/a652a6d41b4b36859cae38b794a28119/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/a652a6d41b4b36859cae38b794a28119/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ba25ce67287d9d871b9c8077421aa43f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/ba25ce67287d9d871b9c8077421aa43f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f66cd47cb9e5b01c32340421b340b6eb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f66cd47cb9e5b01c32340421b340b6eb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.0.2] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f166116259530506ff112bf6371f2375/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.0.2] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f166116259530506ff112bf6371f2375/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/40b13c504efc882f2951595ca246a664/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/40b13c504efc882f2951595ca246a664/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0f38e1551c4116173bc84619ff57bdb4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0f38e1551c4116173bc84619ff57bdb4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e5da86faeedaa6bc49a46b00af8ef877/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e5da86faeedaa6bc49a46b00af8ef877/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/9dfeed9fdc054fa4862bf50763d9cf6e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/9dfeed9fdc054fa4862bf50763d9cf6e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9b3fc79e107b72c2d8e6a92d8d01968/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9b3fc79e107b72c2d8e6a92d8d01968/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/573f0c7540a7d162c0df1e27b2ea6a9a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/573f0c7540a7d162c0df1e27b2ea6a9a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/706429754573521e38b24119539d3e6a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/706429754573521e38b24119539d3e6a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5ea926fb82f232c0d9b4db5505ff4f2c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5ea926fb82f232c0d9b4db5505ff4f2c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/94cda93c564c0a10190f32c53488d0cb/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/94cda93c564c0a10190f32c53488d0cb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/b5e9cb3529eed7826082e3690c910595/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/b5e9cb3529eed7826082e3690c910595/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/71990e63043b51b1cf70a822be1dfb2c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/71990e63043b51b1cf70a822be1dfb2c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5b74d604313b206717e4a0a8106d9c35/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5b74d604313b206717e4a0a8106d9c35/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/a350d09274d5f8f87c7b0078ca0eaaf4/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/a350d09274d5f8f87c7b0078ca0eaaf4/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/b8c75e63ddb26d8d634cde7ba39a62f2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/b8c75e63ddb26d8d634cde7ba39a62f2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1df362433a64cebb1068253daafcdd67/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1df362433a64cebb1068253daafcdd67/AndroidManifest.xml:7:5-9:41
-MERGED from [io.grpc:grpc-android:1.16.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/cad4b7a44ac7f6af861028db83ef8b0c/AndroidManifest.xml:7:5-9:41
-MERGED from [io.grpc:grpc-android:1.16.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/cad4b7a44ac7f6af861028db83ef8b0c/AndroidManifest.xml:7:5-9:41
-INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
-INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
+INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
+INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ea9859ee85561ad4637b3bdc60a0a65f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ea9859ee85561ad4637b3bdc60a0a65f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\2c0ec5201d236b9125ce3bb693d95405\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\2c0ec5201d236b9125ce3bb693d95405\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d413163262bb5e6882a6476ba4c8831c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d413163262bb5e6882a6476ba4c8831c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\808ac8f355f49a94904ba8b5ed078d59\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\808ac8f355f49a94904ba8b5ed078d59\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a6cb385b1f8139577293b14bce79c355\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a6cb385b1f8139577293b14bce79c355\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\b4356bc217cb3ed1cb882ea97d25ac23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\b4356bc217cb3ed1cb882ea97d25ac23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\4a189ef16a641829f155bf86edb01976\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\4a189ef16a641829f155bf86edb01976\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\4b4db3859546235b152781255f071c56\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\4b4db3859546235b152781255f071c56\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\00bcc6f8fe23171adf948ff92f520c7c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\00bcc6f8fe23171adf948ff92f520c7c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27b68af883f937a26f70cb65f2d6a669\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27b68af883f937a26f70cb65f2d6a669\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\210626d33eddc80b15fb5334317af83e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\210626d33eddc80b15fb5334317af83e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\51baad3f2cdb30ac43bd7a73b432f16b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\51baad3f2cdb30ac43bd7a73b432f16b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d09489c441b000cd800c2aeed65c7607\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d09489c441b000cd800c2aeed65c7607\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0aab7e97dc0acb4069bd9457a7c7a0a4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0aab7e97dc0acb4069bd9457a7c7a0a4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ab28663414e08af6ad5e131f6e68d3b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ab28663414e08af6ad5e131f6e68d3b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c0f8e81817ec1d2544e91cffcb98608c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c0f8e81817ec1d2544e91cffcb98608c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\90b9dc38f651b601215b17841a931555\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\90b9dc38f651b601215b17841a931555\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\31efd9efdb258a58703397982c70d9ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\31efd9efdb258a58703397982c70d9ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f7f6a013e3942834d371c6732a3e4dee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f7f6a013e3942834d371c6732a3e4dee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\b6c3c18a320b02ae45b25a51190880a5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\b6c3c18a320b02ae45b25a51190880a5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\85dc1480bfb412245f3542d01f3bef47\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\85dc1480bfb412245f3542d01f3bef47\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\af6140226dc8787385cdd842a5d61ed0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\af6140226dc8787385cdd842a5d61ed0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7fad40a8c89ec2e5c857ffd1f3bc28b3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7fad40a8c89ec2e5c857ffd1f3bc28b3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e00a639a145beb75f249fceb593d3832\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e00a639a145beb75f249fceb593d3832\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\9744f9d3f54e9618d0a1d91b125e3f3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\9744f9d3f54e9618d0a1d91b125e3f3a\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f3a4510851c82e29533a52a0759b502a\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f3a4510851c82e29533a52a0759b502a\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c876a2c8d407e06a0f4014adfbf9d3da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c876a2c8d407e06a0f4014adfbf9d3da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7650d67fd62dcb946242d17c042755c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7650d67fd62dcb946242d17c042755c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\91fbc77e4112d629d233b7696ec7b023\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\91fbc77e4112d629d233b7696ec7b023\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5d874da0492bc31d88d3aa459e42b2ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5d874da0492bc31d88d3aa459e42b2ab\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\8f99d6df2cf75a8a21937e48a6984c12\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\8f99d6df2cf75a8a21937e48a6984c12\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e556b6de03d07a0a38b278fd7b3fa62a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e556b6de03d07a0a38b278fd7b3fa62a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\efc1990e51ec65f29dd69e97089dc4e8\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\efc1990e51ec65f29dd69e97089dc4e8\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\923cc5746f8bfa57a846a503bb11efd3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\923cc5746f8bfa57a846a503bb11efd3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d4153d734d3426e2195f0df5e2803922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\d4153d734d3426e2195f0df5e2803922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5ea9f08451e0a64215cf720187caccaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5ea9f08451e0a64215cf720187caccaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e4dd2506009c2aef9332d3a3cc511b76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e4dd2506009c2aef9332d3a3cc511b76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f18e7c10d7a8caca29ad04c80d2de666\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f18e7c10d7a8caca29ad04c80d2de666\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a4ddab60af49300690a3c57366a35164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a4ddab60af49300690a3c57366a35164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\489559afdd7f1f0be2bd0d4959521a26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\489559afdd7f1f0be2bd0d4959521a26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3adb0a3b68d75bd2fbd4de501171ba01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3adb0a3b68d75bd2fbd4de501171ba01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\58e04f2deff859269e99fc9f6b398efe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\58e04f2deff859269e99fc9f6b398efe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\1c60bad9a0b69f67202384686d18c1f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\1c60bad9a0b69f67202384686d18c1f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e2d7f43b5e5a70e72d5974d5ccc21120\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e2d7f43b5e5a70e72d5974d5ccc21120\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\aba6089bbbcd7f56d588fe51f8b63a23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\aba6089bbbcd7f56d588fe51f8b63a23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\49cfcbffecbeb0948639a6f44ee8b849\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\49cfcbffecbeb0948639a6f44ee8b849\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\9c282706c451628fa6a8fa992673e5d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\9c282706c451628fa6a8fa992673e5d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a39fec65cd923bc25e1244d1841e2370\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\a39fec65cd923bc25e1244d1841e2370\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\8b2d8deff8de098e0d43a418d49bbaed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\8b2d8deff8de098e0d43a418d49bbaed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\72e964ccbcda6334f23bffc99231707a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\72e964ccbcda6334f23bffc99231707a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\77dcb52ce3bc23b9b3ac39bedf9f190f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\77dcb52ce3bc23b9b3ac39bedf9f190f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\97f08248603742b04e28df118f49c32e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\97f08248603742b04e28df118f49c32e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\46463165d59129fb749d82fe78300c68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\46463165d59129fb749d82fe78300c68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\56c7ea00fea2003ebf9e85e437ed5afd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\56c7ea00fea2003ebf9e85e437ed5afd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7f77133ea8ac23372d37efab518104cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7f77133ea8ac23372d37efab518104cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\784f36f2addd5e5a6f30638fb68eca51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\784f36f2addd5e5a6f30638fb68eca51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f508795bb0636e9063ea1d9e7f9dce88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f508795bb0636e9063ea1d9e7f9dce88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\6e3439afa2567b0d75b1856998996da0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\6e3439afa2567b0d75b1856998996da0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\794696dbfc2604b0a2c3bfef1f67e902\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\794696dbfc2604b0a2c3bfef1f67e902\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e34ffe48dfa2bc54d4788d6f1361a933\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e34ffe48dfa2bc54d4788d6f1361a933\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7d7169703a9077c4037cda68f7cf5e41\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\7d7169703a9077c4037cda68f7cf5e41\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5cd17139b70f3eeb10003158491ffb6a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5cd17139b70f3eeb10003158491ffb6a\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\73b77b5e9d31543eb5ada9d497f4c2e3\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\73b77b5e9d31543eb5ada9d497f4c2e3\AndroidManifest.xml:7:5-9:41
+INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
+INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
-		INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
+		INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
-		ADDED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
-		INJECTED from /Volumes/MOSAB/mosab projects/mo3en/app/src/main/AndroidManifest.xml
+		INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
+		ADDED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
+		INJECTED from H:\mosab projects\mo3en\app\src\main\AndroidManifest.xml
 activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:33:9-71
+ADDED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:33:9-71
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18ec1c6edb959c804db604e082424bf7/AndroidManifest.xml:33:19-68
+		ADDED from [com.facebook.android:facebook-common:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\0515bea5d1b1b295baf5c919bda7e6a1\AndroidManifest.xml:33:19-68
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
-ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:24:9-31:50
+ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:26:13-46
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:26:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:28:13-44
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:28:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:27:13-36
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:27:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:29:13-102
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:29:13-102
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:30:13-72
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:30:13-72
 	tools:replace
-		ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:31:13-47
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:31:13-47
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:25:13-85
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:25:13-85
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:33:9-39:19
-MERGED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:17:9-21:19
-MERGED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:17:9-21:19
-MERGED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:29:9-33:19
-MERGED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:29:9-33:19
-MERGED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:30:9-34:19
-MERGED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:30:9-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:29:9-35:19
+ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:29:9-35:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:35:13-37
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:34:13-84
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:34:13-84
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:36:13-38:85
+ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:36:13-38:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:38:17-82
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:38:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/1360da4c0a0911365b7a8a56be7a92b0/AndroidManifest.xml:37:17-109
+		ADDED from [com.google.firebase:firebase-auth:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\981e4efb5057ff1d5fb979d8549c9006\AndroidManifest.xml:37:17-109
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:13:5-79
-MERGED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:25:5-79
-MERGED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:25:5-79
-MERGED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:26:5-79
-MERGED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:26:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/86bca98e3174642b889c79ab7a0358b6/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/86bca98e3174642b889c79ab7a0358b6/AndroidManifest.xml:24:5-79
-MERGED from [io.grpc:grpc-android:1.16.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/cad4b7a44ac7f6af861028db83ef8b0c/AndroidManifest.xml:11:5-79
-MERGED from [io.grpc:grpc-android:1.16.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/cad4b7a44ac7f6af861028db83ef8b0c/AndroidManifest.xml:11:5-79
+ADDED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f7f6a013e3942834d371c6732a3e4dee\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f7f6a013e3942834d371c6732a3e4dee\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\73b77b5e9d31543eb5ada9d497f4c2e3\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\73b77b5e9d31543eb5ada9d497f4c2e3\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:13:22-76
+		ADDED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:13:22-76
 meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
-ADDED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:18:13-20:85
+ADDED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:18:13-20:85
 	android:value
-		ADDED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:20:17-82
+		ADDED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:20:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-firestore:18.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/c1e012d0a4f71954fca491d28b2e7d48/AndroidManifest.xml:19:17-111
+		ADDED from [com.google.firebase:firebase-firestore:18.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3755ad4f4912e2b9c7ce37255002fd42\AndroidManifest.xml:19:17-111
 meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
-ADDED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:30:13-32:85
+ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:30:13-32:85
 	android:value
-		ADDED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:32:17-82
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:32:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-database:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e190767e4c7f1a8b47817483271a7a28/AndroidManifest.xml:31:17-109
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\10c808a48927acea6c18b0207a04ae37\AndroidManifest.xml:31:17-109
 meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
-ADDED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:31:13-33:85
+ADDED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:31:13-33:85
 	android:value
-		ADDED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:33:17-82
+		ADDED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:33:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-storage:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/8e531214360ba3ac534de554d3f663c9/AndroidManifest.xml:32:17-107
+		ADDED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\dd0d5e77f00a2f060b3440eaab5adac0\AndroidManifest.xml:32:17-107
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/86bca98e3174642b889c79ab7a0358b6/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/86bca98e3174642b889c79ab7a0358b6/AndroidManifest.xml:25:5-68
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f7f6a013e3942834d371c6732a3e4dee\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f7f6a013e3942834d371c6732a3e4dee\AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:24:22-65
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:30:13-32:85
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:30:13-32:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:32:17-82
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:32:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/0194cfb51bcce4d6a20374737e427b67/AndroidManifest.xml:31:17-139
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f3fb4f08c391f5822181bd76bb92a4\AndroidManifest.xml:31:17-139
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:26:5-82
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:26:5-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:26:22-79
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:26:22-79
 meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:32:13-34:85
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:33:17-96
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:33:17-96
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:37:9-44:20
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:37:9-44:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:39:13-36
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:39:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:40:13-73
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:40:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:38:13-78
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:38:13-78
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:41:13-43:29
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:41:13-43:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:42:17-81
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:42:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:42:25-78
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:42:25-78
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:50:9-56:19
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:50:9-56:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:52:13-36
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:52:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:51:13-77
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:51:13-77
 intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:53:13-55:29
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:53:13-55:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:53:28-51
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:53:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:54:17-80
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:54:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/f9fa035a683fdfbe4d566a01fcfc2827/AndroidManifest.xml:54:25-77
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\3cdc3f19d932a539c599c731618a0e4a\AndroidManifest.xml:54:25-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/14019d4e935d1a69fb7c5f07ddefd4ed/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ab28663414e08af6ad5e131f6e68d3b9\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/14019d4e935d1a69fb7c5f07ddefd4ed/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ab28663414e08af6ad5e131f6e68d3b9\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/14019d4e935d1a69fb7c5f07ddefd4ed/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ab28663414e08af6ad5e131f6e68d3b9\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/14019d4e935d1a69fb7c5f07ddefd4ed/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\ab28663414e08af6ad5e131f6e68d3b9\AndroidManifest.xml:24:13-79
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/405f3039f28cfadca0f3a3482f09ed0d/AndroidManifest.xml:12:9-16:39
+ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c0f8e81817ec1d2544e91cffcb98608c\AndroidManifest.xml:12:9-16:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/405f3039f28cfadca0f3a3482f09ed0d/AndroidManifest.xml:14:13-72
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c0f8e81817ec1d2544e91cffcb98608c\AndroidManifest.xml:14:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/405f3039f28cfadca0f3a3482f09ed0d/AndroidManifest.xml:15:13-37
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c0f8e81817ec1d2544e91cffcb98608c\AndroidManifest.xml:15:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/405f3039f28cfadca0f3a3482f09ed0d/AndroidManifest.xml:16:13-36
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c0f8e81817ec1d2544e91cffcb98608c\AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/405f3039f28cfadca0f3a3482f09ed0d/AndroidManifest.xml:13:13-77
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\c0f8e81817ec1d2544e91cffcb98608c\AndroidManifest.xml:13:13-77
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:26:5-110
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:26:22-107
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:31:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:30:13-85
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:30:13-85
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:34:9-42:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/18566a51ba632ecf2538a35461b461dd/AndroidManifest.xml:29:9-37:20
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\27f8aa01749620f8c2658e540f8e6223\AndroidManifest.xml:29:9-37:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:36:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:36:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:37:13-36
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:37:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:38:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:35:13-100
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:35:13-100
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:39:13-41:29
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:39:13-41:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:40:17-79
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:40:17-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:40:25-76
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:40:25-76
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:44:9-47:40
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:44:9-47:40
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:46:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:46:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:47:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:45:13-84
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:45:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:48:9-52:72
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:48:9-52:72
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:50:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:50:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:51:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:51:13-37
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:52:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:52:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/19407e39a27bf78a0971af15b2a72335/AndroidManifest.xml:49:13-87
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\5058e545c942f7335d3bfa885c7a33c7\AndroidManifest.xml:49:13-87
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e64036baaaa49e2cdd41003619b9e98c/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e00a639a145beb75f249fceb593d3832\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e64036baaaa49e2cdd41003619b9e98c/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e00a639a145beb75f249fceb593d3832\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/e64036baaaa49e2cdd41003619b9e98c/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\e00a639a145beb75f249fceb593d3832\AndroidManifest.xml:24:13-58
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5679f8d2f072865661089992ba59aaf5/AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f3a4510851c82e29533a52a0759b502a\AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5679f8d2f072865661089992ba59aaf5/AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f3a4510851c82e29533a52a0759b502a\AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5679f8d2f072865661089992ba59aaf5/AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f3a4510851c82e29533a52a0759b502a\AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/5679f8d2f072865661089992ba59aaf5/AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\f3a4510851c82e29533a52a0759b502a\AndroidManifest.xml:9:13-64
 provider#com.facebook.marketing.internal.MarketingInitProvider
-ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/fb88b52407990227ec2f3b7b51c1516f/AndroidManifest.xml:29:9-32:40
+ADDED from [com.facebook.android:facebook-marketing:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\923cc5746f8bfa57a846a503bb11efd3\AndroidManifest.xml:29:9-32:40
 	android:authorities
-		ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/fb88b52407990227ec2f3b7b51c1516f/AndroidManifest.xml:31:13-73
+		ADDED from [com.facebook.android:facebook-marketing:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\923cc5746f8bfa57a846a503bb11efd3\AndroidManifest.xml:31:13-73
 	android:exported
-		ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/fb88b52407990227ec2f3b7b51c1516f/AndroidManifest.xml:32:13-37
+		ADDED from [com.facebook.android:facebook-marketing:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\923cc5746f8bfa57a846a503bb11efd3\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-marketing:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/fb88b52407990227ec2f3b7b51c1516f/AndroidManifest.xml:30:13-81
+		ADDED from [com.facebook.android:facebook-marketing:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\923cc5746f8bfa57a846a503bb11efd3\AndroidManifest.xml:30:13-81
 provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:39:9-42:40
+ADDED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:39:9-42:40
 	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:41:13-72
+		ADDED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:41:13-72
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:42:13-37
+		ADDED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:40:13-70
+		ADDED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:40:13-70
 receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
-ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:44:9-50:20
+ADDED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:44:9-50:20
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:46:13-37
+		ADDED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:46:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:45:13-86
+		ADDED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:45:13-86
 intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:47:13-49:29
+ADDED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:47:13-49:29
 action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:48:17-95
+ADDED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:48:17-95
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.40.0] /Users/gl-zarqa-imac-7/.gradle/caches/transforms-2/files-2.1/448240122870c71a233caac7b6fa22ac/AndroidManifest.xml:48:25-92
+		ADDED from [com.facebook.android:facebook-core:4.40.0] C:\Users\mosab\.gradle\caches\transforms-2\files-2.1\771738a6c9acaf1b90e10ff6751444e8\AndroidManifest.xml:48:25-92

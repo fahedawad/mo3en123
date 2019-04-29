@@ -1073,6 +1073,7 @@ drawable about
 drawable about1
 drawable about2
 drawable about3
+drawable add
 drawable attach
 drawable avd_hide_password
 drawable avd_show_password
@@ -1293,6 +1294,7 @@ id coordinator
 id custom
 id customPanel
 id dark
+id date
 id decor_content_parent
 id default_activity_button
 id design_bottom_sheet

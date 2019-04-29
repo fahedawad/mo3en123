@@ -44,7 +44,7 @@ public class message_activity extends AppCompatActivity {
     static long countmessage;
     Calendar calander ;
     DatabaseReference dbr;
-    FirebaseDatabase db;
+    DatabaseReference dbenw;
     Uri filepath;
     private StorageReference mStorageRef;
     static String sender,email1;
@@ -90,6 +90,7 @@ public class message_activity extends AppCompatActivity {
             String time = sharedprefrens1.getFavorites(message_activity.this).get(0).getTime();
             dbr= FirebaseDatabase.getInstance().getReference("chat").child(time+"@"+FirebaseAuth.getInstance().getCurrentUser().getUid()+"_"+email1);
 
+
         }
         dbr.addValueEventListener(new ValueEventListener() {
             @Override
@@ -129,6 +130,8 @@ public class message_activity extends AppCompatActivity {
     public void sendMessage(View view) {
         final String message = editText.getText().toString();
         if(!(message.isEmpty())) {
+            dbenw = FirebaseDatabase.getInstance().getReference("chatnew").child(email1).child("message");
+            dbenw.setValue(message);
             String time;
             calander = Calendar.getInstance();
             int cHour = calander.get(Calendar.HOUR);
