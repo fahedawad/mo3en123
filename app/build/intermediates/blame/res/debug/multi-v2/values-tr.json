@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\mosab projects\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
+            "outputFile": "C:\\Users\\pc-streams\\Desktop\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-2\\files-2.1\\e00a639a145beb75f249fceb593d3832\\res\\values-tr\\values.xml",
+                    "source": "C:\\Users\\pc-streams\\.gradle\\caches\\transforms-2\\files-2.1\\d10a29b596acd7f86df9c14d080c3b98\\res\\values-tr\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,24 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-2\\files-2.1\\808ac8f355f49a94904ba8b5ed078d59\\res\\values-tr\\values-tr.xml",
+                    "source": "C:\\Users\\pc-streams\\.gradle\\caches\\transforms-2\\files-2.1\\faabba8ee95be1ca8e986ffeb42bde63\\res\\values-tr\\values-tr.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,217,354,490,603,688,774,854,942,1034,1147,1257,1350,1443,1550,1670,1752,1835,2012,2108,2217,2333,2436",
-                        "endColumns": "161,136,135,112,84,85,79,87,91,112,109,92,92,106,119,81,82,176,95,108,115,102,138",
-                        "endOffsets": "212,349,485,598,683,769,849,937,1029,1142,1252,1345,1438,1545,1665,1747,1830,2007,2103,2212,2328,2431,2570"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2786,2948,3085,3221,3334,3419,3505,3585,3673,3765,3878,3988,4081,4174,4281,4401,4483,4566,4743,4839,4948,5064,5167",
-                        "endColumns": "161,136,135,112,84,85,79,87,91,112,109,92,92,106,119,81,82,176,95,108,115,102,138",
-                        "endOffsets": "2943,3080,3216,3329,3414,3500,3580,3668,3760,3873,3983,4076,4169,4276,4396,4478,4561,4738,4834,4943,5059,5162,5301"
+                        "startLines": "71",
+                        "startColumns": "4",
+                        "startOffsets": "8125",
+                        "endColumns": "100",
+                        "endOffsets": "8221"
                     }
                 },
                 {
-                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-2\\files-2.1\\b4356bc217cb3ed1cb882ea97d25ac23\\res\\values-tr\\values-tr.xml",
+                    "source": "C:\\Users\\pc-streams\\.gradle\\caches\\transforms-2\\files-2.1\\03071fd22359040189c3438443ae0da7\\res\\values-tr\\values-tr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-2\\files-2.1\\ab28663414e08af6ad5e131f6e68d3b9\\res\\values-tr\\values.xml",
+                    "source": "C:\\Users\\pc-streams\\.gradle\\caches\\transforms-2\\files-2.1\\d095dc7fddcb78ee5326ea11f5ff665f\\res\\values-tr\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -72,20 +72,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-2\\files-2.1\\a39fec65cd923bc25e1244d1841e2370\\res\\values-tr\\values-tr.xml",
+                    "source": "C:\\Users\\pc-streams\\.gradle\\caches\\transforms-2\\files-2.1\\88f4f71ad7460e4de39f7a37fe7fbf08\\res\\values-tr\\values-tr.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,217,354,490,603,688,774,854,942,1034,1147,1257,1350,1443,1550,1670,1752,1835,2012,2108,2217,2333,2436",
+                        "endColumns": "161,136,135,112,84,85,79,87,91,112,109,92,92,106,119,81,82,176,95,108,115,102,138",
+                        "endOffsets": "212,349,485,598,683,769,849,937,1029,1142,1252,1345,1438,1545,1665,1747,1830,2007,2103,2212,2328,2431,2570"
                     },
                     "to": {
-                        "startLines": "71",
-                        "startColumns": "4",
-                        "startOffsets": "8125",
-                        "endColumns": "100",
-                        "endOffsets": "8221"
+                        "startLines": "29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2786,2948,3085,3221,3334,3419,3505,3585,3673,3765,3878,3988,4081,4174,4281,4401,4483,4566,4743,4839,4948,5064,5167",
+                        "endColumns": "161,136,135,112,84,85,79,87,91,112,109,92,92,106,119,81,82,176,95,108,115,102,138",
+                        "endOffsets": "2943,3080,3216,3329,3414,3500,3580,3668,3760,3873,3983,4076,4169,4276,4396,4478,4561,4738,4834,4943,5059,5162,5301"
                     }
                 }
             ]

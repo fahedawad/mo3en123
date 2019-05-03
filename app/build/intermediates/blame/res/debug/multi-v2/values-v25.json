@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\mosab projects\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+            "outputFile": "C:\\Users\\pc-streams\\Desktop\\mo3en\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mosab\\.gradle\\caches\\transforms-2\\files-2.1\\b4356bc217cb3ed1cb882ea97d25ac23\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\pc-streams\\.gradle\\caches\\transforms-2\\files-2.1\\03071fd22359040189c3438443ae0da7\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

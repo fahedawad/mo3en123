@@ -15,19 +15,21 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
+import android.widget.RelativeLayout.LayoutParams;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
-    CardView medicine;
-    CardView tech;
-    CardView social;
-    CardView law;
-    CardView leran;
-    CardView help;
+    ImageView medicine;
+    ImageView tech;
+    ImageView social;
+    ImageView law;
+    ImageView leran;
+
     NavigationView navigationView;
     DrawerLayout mDrawerLayout;
-    RelativeLayout relativeLayout;
+    LinearLayout relativeLayout;
     TextView name;
     ImageView imageView;
     @Override
@@ -48,22 +50,22 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         mDrawerLayout.addDrawerListener(new DrawerLayout.DrawerListener() {
             @Override
             public void onDrawerSlide(@NonNull View view, float v) {
-                RelativeLayout.LayoutParams layoutParams = new RelativeLayout.LayoutParams(
-                        RelativeLayout.LayoutParams.MATCH_PARENT,
-                        RelativeLayout.LayoutParams.MATCH_PARENT);
+                LayoutParams layoutParams = new LayoutParams(
+                        LayoutParams.MATCH_PARENT,
+                        LayoutParams.MATCH_PARENT);
                 relativeLayout.setLayoutParams(layoutParams);
             }
             @Override
             public void onDrawerOpened(@NonNull View view) {
-                RelativeLayout.LayoutParams layoutParams = new RelativeLayout.LayoutParams(
-                        RelativeLayout.LayoutParams.MATCH_PARENT,
-                        RelativeLayout.LayoutParams.MATCH_PARENT);
+                LayoutParams layoutParams = new LayoutParams(
+                        LayoutParams.MATCH_PARENT,
+                        LayoutParams.MATCH_PARENT);
                 relativeLayout.setLayoutParams(layoutParams);
             }
             @Override
             public void onDrawerClosed(@NonNull View view) {
-                RelativeLayout.LayoutParams layoutParams = new RelativeLayout.LayoutParams(
-                        RelativeLayout.LayoutParams.MATCH_PARENT,
+                LayoutParams layoutParams = new LayoutParams(
+                        LayoutParams.MATCH_PARENT,
                         170);
                 relativeLayout.setLayoutParams(layoutParams);
             }
@@ -76,13 +78,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         social=findViewById(R.id.social);
         law=findViewById(R.id.law);
         leran=findViewById(R.id.leran);
-        help=findViewById(R.id.help);
         medicine.setOnClickListener(this.onClickListener(R.id.mid, this, "pink"));
         tech.setOnClickListener(this.onClickListener(R.id.tech, this, "blue"));
         social.setOnClickListener(this.onClickListener(R.id.social, this, "royalblue"));
         law.setOnClickListener(this.onClickListener(R.id.law, this, "boldgreen"));
         leran.setOnClickListener(this.onClickListener(R.id.leran, this, "green"));
-        help.setOnClickListener(this.onClickListener(R.id.help, this, "asfar"));
+
 
 
 
